@@ -1,0 +1,100 @@
+1:Abchee Gonpa Tsogspa:103-UTL:leh (LADAKH):R/o HANU YOKMA P/o KHALTSI LEH U T LADAKHOFFICE LOCATED AT HANU YOKMA ZAMCHUNG COMPLEX:Any Other
+2:AL-REZA HEALTH CARE AND RESEARCH FOUNDATION:7087:LADAKH (LADAKH):First floor Inquilab Manzil Qatilgah Kargil UT-Ladakh 194103:Agriculture,Education & Literacy,Health & Family Welfare,Human Rights,Rural Development & Poverty Alleviation,Any Other
+3:ALAMDAR ACADEMY & WELFARE SOCIETY KARGIL:186-UTLof2022:KARGIL (LADAKH):Stikchay , BPO minjee , PO baroo kargil:Education & Literacy
+4:ALL LADAKH BASKETBALL ASSOCIATION:128-UTL:Leh (LADAKH):Togochay hotel, spang chonmo, Leh-Ladakh India-194101:Data Not Found
+5:All ladakh youth coordination committee:159/K/2015:KARGIL (LADAKH):CHOCHOT YOKMA NEAR IMAM BARGAH CHOCHOT LEH LADAKH 194101:Any Other,Health & Family Welfare,Agriculture,Animal Husbandry, Dairying & Fisheries,Art & Culture,Children,Civic Issues,Drinking Water,Education & Literacy,Environment & Forests,HIV/AIDS,Human Rights,Labour & Employment,Minority Issues,Nutrition,Panchayati Raj,Rural Development & Poverty Alleviation,Sports,Tourism,Women's Development & Empowerment
+6:All Zangskar Gonpa Association:1700-S of 1990:Kargil (LADAKH):All Zangskar Gonpa Association, Duzing Photang, Maniringmo Padum ZanskarKargil (J:Data Not Found
+7:ALWATTAN CHARITABLE FOUNDATION:121-UTL:KARGIL (LADAKH):OLD TAXI STAND OPPOSITE GREEN HOTEL KARGIL UT LADAKH:Children,Education & Literacy
+8:Anjuman Imamia Leh Town:6052-S:LEH (LADAKH):Main Bazar Leh:Art & Culture,Children,Civic Issues,Disaster Management,Education & Literacy,Food Processing,Health & Family Welfare,Human Rights,Land Resources,Panchayati Raj
+9:Arts Cultural and Educational Society:4945-S:Kargil (LADAKH):Changra Garkone:Data Not Found
+10:ARYAN YAK HERDERS COOPERATIVE LTD:RCS/UTL/2022-23/SR-111:leh (LADAKH):hanu village:Data Not Found
+11:ASSOCIATION FOR MEDICINE EDUCATION AND DEVELOPMENT AMED ZANASKAR:6581-S OF 2014:KARGIL (LADAKH):Rainbow School Nerok Zanskar Nearby Govt, Degree College Zanskar,Distt. Kargil UT Ladakh India 194302:Education & Literacy
+12:AURA OF WISDOM A CULTURAL & WELFARE SOCIETY:114-UTL:LEH (LADAKH):THIKSAY UT LADAKH:Data Not Found
+13:AZ-ZAHRA (S) ORPHANAGE ISLAMIA SCHOOL KARGIL:6390/S/13:KARGIL (LADAKH):NEAR KARGIL FILLING STATION, KURBATHANG KARGILLADAKH (194103):Children,Education & Literacy,Any Other,Rural Development & Poverty Alleviation
+14:Bardan Cultural and Welfare Society, Bardan Gonpa:1341-S of 1987:Kargil (LADAKH):Bardan Gonpa, Zanskar, District Kargil( J:Data Not Found
+15:BODICHARYAVATAR SOCIETY:3015:LEH (LADAKH):SKIDMANG CHANGTHANGLEH LADAKH:Education & Literacy
+16:BORDER AREA DEVELOPMENT ORGANISATION KARGIL:3407- S:Kargil (LADAKH):Akwoou Complex Main Road Poyen Kargil Jammu and Kashmir 194103:Agriculture,Animal Husbandry, Dairying & Fisheries,Art & Culture,Biotechnology,Children,Civic Issues,Dalit Upliftment,Disaster Management,Drinking Water,Education & Literacy,Aged/Elderly,Environment & Forests,Food Processing,Health & Family Welfare,Housing,Information & Communication Technology,Land Resources,Micro Small & Medium Enterprises,Minority Issues,New & Renewable Energy,Panchayati Raj,Right to Information & Advocacy,Rural Development & Poverty Alleviation,Science & Technology,Sports,Tourism,Tribal Affairs,Urban Development & Poverty Alleviation,Vocational Training,Women's Development & Empowerment,Youth Affairs,Any Other
+17:CARING HANDS INITIATIVE:IN-LA04886689321895V:Leh (LADAKH):Saspol village leh ladakh:Education & Literacy,Aged/Elderly,Rural Development & Poverty Alleviation
+18:Centre For Sustainable Development and Food Security In Ladakh (CENSFOOD):1888-RS/903:Leh (LADAKH):PO Box No. 53 Ser-Dung House Chubi Leh Ladakh:Disaster Management,Education & Literacy,Rural Development & Poverty Alleviation,Women's Development & Empowerment,Any Other
+19:Chamba Choskore Padmaling Association:4816-S:Kargil (LADAKH):Chamba Mulbek kargil:Agriculture,Animal Husbandry, Dairying & Fisheries,Art & Culture,Children,Education & Literacy,New & Renewable Energy,Tourism,Vocational Training,Women's Development & Empowerment,Agriculture,Art & Culture,Education & Literacy,Food Processing,New & Renewable Energy
+20:Chamtse Society:3526-s of 2000:srinagar (LADAKH):Tashi Thongsmon, Choglamsar:Education & Literacy
+21:CHANGCHUP CHOELING CULTURE AND WELFARE SOCIETY:240-UTL:ZANGLA (LADAKH):VILLAGE -ZANGLAP.O PADUM DIST- KARGIL U.T,LADAKH:Data Not Found
+22:Changchup Choling Institute Zangla Zanskar:2985-S of 1998:Kargil (LADAKH):Changchup Choling Institute, ZanglaZanskar:Data Not Found
+23:CHEMREY CULTURAL AND WELFARE SOCIETY GONPA LADAKH:1340:LEH (LADAKH):CHEMREY LEH:Data Not Found
+24:Child Welfare Society:2739-S:Leh (LADAKH):P B NO 155 Ladakh:Data Not Found
+25:CHUCHIK JALL NUN MONASTERY CULTURAL AND WELFARE SOCIETY:1430-S of 1988:Kargil (LADAKH):Chuchik Jall Nun Monastery, Chuchik Jall Karsha Zanskar:Data Not Found
+26:Chumur Cultural & Welfare Society:1337-S of 1987:Leh (LADAKH):Chumur Labrang, Moti Market Leh-Ladakh:Art & Culture,Education & Literacy
+27:CULTURAL AND WELFARE SOCIETY STAKNA GONPA:1220-S:leh (LADAKH):Stakna GonpaLeh Ladakh:Data Not Found
+28:Cultural and Welfare Society Takthak Gonpa:1367-S:Leh (LADAKH):Village SaktiBlock KharuDistt. Leh Ladakhpin-194102:Data Not Found
+29:Cultural Preservation and Promotion Society Achinathang:1794-S of 1991:Leh (LADAKH):Achinathang,Block- Skurbuchan, District- Leh Ladakh:Art & Culture
+30:CULTURAL PRESERVATION ENVIRENMENT AND AREA DEVELOPMENT GROUP:2041-S of 1993:Zanaskar (LADAKH):Zanaskar Disst.- Kargil (J:Data Not Found
+31:CULTURAL& WELFARE SOCIETY MATHE GONDA LADAKH:1101-S:LEH (LADAKH):CULTURAL:Education & Literacy
+32:Culture Preservation Society Kukshow Kargil:1702-S:Kargil (LADAKH):Kukshow, District KargilJ:Art & Culture,Art & Culture
+33:Darchik Temple Association:1797-S:Kargil (LADAKH):GONPA DARCHIK:Agriculture,Animal Husbandry, Dairying & Fisheries,Art & Culture,Children,Drinking Water,Education & Literacy,Food Processing,New & Renewable Energy,Sports,Women's Development & Empowerment,Any Other
+34:deskid cultural and welfare society:1257-S:leh (LADAKH):deskid monastery B.P.O. deskid nubra leh ladakh-194401 j:Art & Culture
+35:DIGITAL COMPUTER CENTRE KARGIL:3871-RF/507:KARGIL (LADAKH):BABA COMPLEX MAIN BAZAR KARGIL:Information & Communication Technology
+36:DORJAY ZONG NUN MONASTERY CULTURAL AND WELFARE SOCIETY:1429-S of 1988:Kargil (LADAKH):Dorjay Zong Nun Monastery, Dorjay Zong Gonpa, Karsha-Youlsum, Zanskar:Data Not Found
+37:DREPUNG LOSELING PETHUB KHANGSTEN EDUCATION SOCIETY LEH:6237-S:LEH (LADAKH):DREPUNG LOSELING PETHUB KHANGSTEN EDUCATION SOCIETY LEH.NEW BUS STAND LEHLADAKHL:Art & Culture,Education & Literacy
+38:Drigung Dharma Foundation:4108-S:Leh (LADAKH):PHYANG P.O. BOX 138 Ladakh:Data Not Found
+39:Drigung Kagyud International Meditation Centre Lamayuru Ladakh:1405-S of 1987:Leh (LADAKH):Yamayuru Medition Centre Leh Ladakh:Art & Culture,Drinking Water,Education & Literacy,Health & Family Welfare,Vocational Training
+40:DRIGUNG KAGYUD TSUNGON ZHADPA DORJEE LING BODH KHARBOO KARGIL:5735-S of 2009:Kargil (LADAKH):Bodhkharboo Kargil (Ladakh):Art & Culture,Education & Literacy,New & Renewable Energy,Sports
+41:Drikung Kagyu Cultural and Welfare Society:757-S:Leh (LADAKH):Gaon Gompa, Pheyang. Ladakh:Data Not Found
+42:DRUK PEMA KARPO EDUCATIONAL SOCIETY:2941-S:Leh (LADAKH):Druk Padma Karpo School Shey:Data Not Found
+43:EDUCATIONAL ENVIRONMENTAL AND CULTURAL DEVELOPMENT ORGANIZATION:6964 -S of 2017:Kargil (LADAKH):Village Phay,BPO Padum, Zanskar District Kargil UT Ladakh:Data Not Found
+44:EFTERSKOLE WELFARE SOCIETY:4439-S of 2004:leh (LADAKH):EFTERSKOLE WELFARE SOCIETY , PHYANG LEH LADAKH:Children,Education & Literacy,Rural Development & Poverty Alleviation
+45:Environmental social and sport association of youth:5711-s:kargil (LADAKH):ESSAY office main bazaar taisuru, block taisuru, pin 194403:Rural Development & Poverty Alleviation
+46:Ex-Servicemen Lhagsam Tsogspa:6334-S:Leh (LADAKH):P.O. Stok, Leh Ladakh 194101:Data Not Found
+47:FAGMOLING NUNERY GONPA CULTURAL AND SOCIAL WELFARE SOCIETY:4719 -S of 2005:Kargil (LADAKH):Fagmoling Gonpa, Village Skagam Zanskar KargilL:Data Not Found
+48:Flowering Dharma Center:3880324:LEH (LADAKH):Yarlok, Chuchot Gongma:Art & Culture,Education & Literacy,Environment & Forests,Youth Affairs,Tribal Affairs
+49:Galdan Targaisling Cultural And Welfare Society Pethup Gonpa:1311-S of 1987:LEH (LADAKH):PETHUP GONPA LEH LADAKH JAMMU AND KASHMIR 194101:Education & Literacy
+50:GALDAN TARGYUN TSOGSPA:5200-S:LEH (LADAKH):NUBRA LEH LADAKH:Art & Culture
+51:Gephel Shadrubling Nunnery Phey Leh Ladakh:5668-S of 2008:Leh (LADAKH):Gephel Shadrubling Nunnery,Village Phey, LehLadakh( J:Data Not Found
+52:Gonpa Sabha Garkon:1796-S:Kargil (LADAKH):Gonpa Garkon:Any Other,Art & Culture
+53:GONPA SABHA HANOO GONGMA LADAKH:1854-S:Leh (LADAKH):Gonpa Hanoo Gongma Khalsi Leh:Animal Husbandry, Dairying & Fisheries,Art & Culture,Education & Literacy,Food Processing,Health & Family Welfare,Housing,Micro Finance (SHGs)
+54:GURFUGS CULTURAL AND WELFARE SOCIETY STOK GONPA LEH:1314-S:Leh (LADAKH):Stok Gonpa Teh:Data Not Found
+55:GYUNDZIN TANTRIC MONASTERY:3976 - S of 2002:Leh (LADAKH):Phey Leh Ladakh:Any Other,Education & Literacy
+56:HEALTH INC.:12-UTL 2020:Leh (LADAKH):Phandey Guest House, Sankar, Leh Ladakh UT 194101:Differently Abled,Education & Literacy,Health & Family Welfare,HIV/AIDS,Rural Development & Poverty Alleviation,Women's Development & Empowerment,Youth Affairs,Skill Development
+57:HEMIS CULTURE AND WELFARE SOCIETY:1356-S of 1987:Leh (LADAKH):Hemis Gonpa Leh Ladakh:Education & Literacy
+58:HIMALAYAN BROWN BEAR TRUST KARGIL:2022/2/4/236:KARGIL (LADAKH):Lchangra bazaar, main market, Kargil, UT of Ladakh194103 INDIA:Agriculture,Art & Culture,Children,Civic Issues,Education & Literacy,Food Processing,Health & Family Welfare,Rural Development & Poverty Alleviation,Sports,Vocational Training,Women's Development & Empowerment,Youth Affairs,Any Other,Skill Development,Disaster Management,Environment & Forests
+59:HIMALAYAN BUDDHIST CULTURAL ASSOCIATION:1945-S:JAMMU (LADAKH):P.O PADUM, ZANSKAR:Art & Culture,Education & Literacy,Environment & Forests,Health & Family Welfare,Tribal Affairs,Vocational Training
+60:HIMALAYAN BUDHIST CULTURE ASSOCIATION:142-UTL:UT LADAKH (LADAKH):ZANG-DOK PALDRI NEAR JIVE-TSAL, LEH, UT LADAKH-194101:Art & Culture,Education & Literacy,Tribal Affairs,Women's Development & Empowerment
+61:Himalayan Cultural Heritage Foundation:5851-S:Leh (LADAKH):Lonpo House, Near Leh Palace, P.O.Box 105, Leh 194101 Ladakh:Art & Culture
+62:Himalayan Institute of Alternatives Ladakh:U80902JK2017NPL009999:Leh (LADAKH):PO Box 4, Housing Colony, Leh Ladakh:Data Not Found
+63:HIS HOLINESS THE GYALWA KARMAPA WELFARE SOCIETY CHOGLAMSAL LEH LADAKH:2663 - S of 1996:Leh (LADAKH):Choglamsar:Education & Literacy
+64:HUMAS INSTITUTE OF TECHNOLOGY:7077-S OF 2018:DRASS (LADAKH):LINK ROAD BERASS NEAR BDO OFFICE DRASS KARGIL LADAKH:Vocational Training,Women's Development & Empowerment,Tribal Affairs
+65:HUMAS UPLIFTMENT ORGANIZATION:6909-S OF 2016:KARGIL (LADAKH):Head office Thasgam Drass Kargil Ladakh:Agriculture,Art & Culture,Education & Literacy,Environment & Forests,Science & Technology,Sports,Women's Development & Empowerment,Youth Affairs,Any Other
+66:IMAMIYA MISSION EDUCATIONAL AND SOCIAL WELFARE SOCIETY:3744-S OF 2001:LEH (LADAKH):CHUCHOT SHAMMA LEH LADAKH(UT):Education & Literacy
+67:INDIAN INSTITUTE OF SUSTAINABILITY LADAKH:U80903LH2022NPL011303:Leh (LADAKH):ADMINISTRATIVE OFFICE MELONGTHANG N/ANEAR FRL, LEH, Ladakh, India:Data Not Found
+68:JAN SHIKSHAN SANSTHAN:173-UTL:LEH (LADAKH):2ND FLOOR METSIG COMPLEX CHOGLAMSAR:Art & Culture,Biotechnology,Children,Disaster Management,Drinking Water,Environment & Forests,Health & Family Welfare,HIV/AIDS,Rural Development & Poverty Alleviation,Science & Technology,Sports,Tourism,Tribal Affairs,Vocational Training,Skill Development
+69:Jan Shikshan Sansthan Kargil:208-UTL 2022:Kargil (LADAKH):Mulbak Shargul Kargil:Skill Development
+70:JULEY LADAKH:6065-S:LEH (LADAKH):3rd, floor, hemis complex, zangsti, leh- ladakh:Data Not Found
+71:Jungwa Foundation:U74999HR2018NPL072772:LEH (LADAKH):ROKA BANO HOUSE, OLD TOWN:Art & Culture,Environment & Forests
+72:JUNU JEWELS:5864-S:Ladakh (LADAKH):Tsogspa, skygam, zanskar, kargil:Agriculture,Art & Culture,Biotechnology,Children,Health & Family Welfare,Housing,Human Rights,Youth Affairs,Minority Issues,Tourism,Tribal Affairs,Vocational Training,Women's Development & Empowerment
+73:KANISHKA CULTURAL PRESERVATION AND WELFARE ASSOCIATION:4940-S:Ladakh (LADAKH):P.O Padum Zanskar:Art & Culture,Environment & Forests,Health & Family Welfare,Human Rights,Tribal Affairs,Vocational Training
+74:Kargil Development Projects:2366-S 1995:Kargil (LADAKH):Kargil Development Project, Greenland Campus- 194103, Kargil Ladakh:Children,Civic Issues,Disaster Management,Education & Literacy,Health & Family Welfare,HIV/AIDS,Rural Development & Poverty Alleviation,Tourism,Women's Development & Empowerment,Youth Affairs
+75:KARGIL EDUCATIONAL SOCIETY:3093-S of 1998:Kargil (LADAKH):Kargil Public School Building Honakey Poyen Kargil:Data Not Found
+76:Kargil Social and Cultural Organisation:2823-RC/97:KARGIL (LADAKH):147, MUNSHI ENLAVE, LANKORE:Data Not Found
+77:KARGIL TRANSPORT COOPERATIVE LTD:1331/Transport:KARGIL (LADAKH):HOTEL GREEN LAND KARGIL:Data Not Found
+78:KARMA CHANGCHEN JAMPALING EDUCATIONAL CULTURAL AND WELFARE SOCIETY:36 UTL:LEH LADAKH (LADAKH):KARMA CHANGCHEN JAMPALING EDUCATIONAL CULTURAL AND WELFARE SOCIETY:Data Not Found
+79:Karma Dupgyud Choeling Cultural and Welfare Association:1560-S:Leh (LADAKH):P.O. Box No-10, Leh- 194101 UT Ladakh:Data Not Found
+80:Karsha Gonpa Cultural & Welfare:1364-S of 1987:Kargil (LADAKH):Karsha Gonpa Cultural and Welfare Society, Karsha Gonpa, ZanskarKargil:Data Not Found
+81:KAZIMI VOLUNTARY SOCIETY KARGIL:3748-S OF 2008:kargil (LADAKH):TRESPONE KARGIL:Data Not Found
+82:Kharnak Cultural & Welfare Society:1770-S of 1991:Leh (LADAKH):Kharnak Gonpa, Village Kharnak Block Nyoma Changthang Leh Ladakh:Data Not Found
+83:KHYUNGJAB CULTURAL AND WELFARE SOCIETY KUNGYAM GONPA LADAKH:1473-S:LEH (LADAKH):KYUNGYAMLEH LADAKH:Data Not Found
+84:KIDMANG CULTURAL AND WELFARE SOCIETY:1681-S:LEH (LADAKH):SKITMANG , CHUMATHANG RONG LEH LADAKH 194201:Data Not Found
+85:KUNDIK WELFARE & CULTURE SOCIETY:3362-S:Kargil (LADAKH):Gonpa Kundik:Agriculture,Art & Culture,Education & Literacy,Food Processing,Housing,Nutrition
+86:Ladakh Buddhist Association:986-S:leh (LADAKH):Chokhang Vehara Ladakh Jammu:Data Not Found
+87:Ladakh Ecological Development Group:776-S of 1983:Leh (LADAKH):Ladakh Ecological Development Group Karzoo, Near Circuit house, Leh-194101 Jammu and Kashmir:Agriculture,Environment & Forests,Food Processing,Micro Finance (SHGs),New & Renewable Energy,Rural Development & Poverty Alleviation,Urban Development & Poverty Alleviation,Water Resources,Women's Development & Empowerment,Disaster Management
+88:LADAKH FOOTBALL ASSOCIAION:27:LEH (LADAKH):NORGYASLING, LEH, LADAKH-1 194101:Data Not Found
+89:LADAKH HEART FOUNDATION:2718-S OF 1997:LEH (LADAKH):KIDAR HOUSE POLO GROUND LEH LADAKH:Health & Family Welfare
+90:Ladakh Himalayan Development Society Kargil:4363-S:Kargil (LADAKH):Hydrai Complex Baroo Kargil:Rural Development & Poverty Alleviation
+91:Ladakh Institute of Prevention:53 UTL OF 2021:Leh (LADAKH):Dr. Tsering Norboo SecretaryLadakh Institute of Prevention Dambuchan, Leh-Ladakh 194101:Health & Family Welfare
+92:LADAKH NUNS ASSOCIATION LEH:65 UTL:LEH (LADAKH):LADAKH NUNS ASSOCIATION LOWER SKARA, P.O. BOX 157 G.H. ROAD, LEH LADAKH 194101 UT LADAKH:Women's Development & Empowerment,Education & Literacy
+93:ladakh organic farmers foundation:429-420:LEH (LADAKH):LOFF/HAAFD CENTRE, CHUCHOT SHAMMA LEH,UT LADAKH:Any Other
+94:LADAKH SCIENCE FOUNDATION:50/SPA/TD/DSCC/19:Leh (LADAKH):Room No-105 Takapa House (Taka Residency) Old Road, Shenam, Leh District - Leh-Ladakh Union Territory of Ladakh, PIN-194101:Children,Education & Literacy,Information & Communication Technology,New & Renewable Energy,Science & Technology,Scientific & Industrial Research,Youth Affairs,Biotechnology,Environment & Forests,Any Other
+95:LADAKH TRIBAL FOUNDATION:6916-S:KARGIL (LADAKH):PETROL-PUMP KURBATHANG near zigzag Morh KARGIL Ladakh:Art & Culture,Children,Differently Abled,Disaster Management,Drinking Water,Education & Literacy,Environment & Forests,Health & Family Welfare,HIV/AIDS,Human Rights,Information & Communication Technology,Minority Issues,Nutrition,Rural Development & Poverty Alleviation,Sports,Tourism,Tribal Affairs,Vocational Training,Women's Development & Empowerment
+96:Ladakh Yateem Trust:278-90:kargil (LADAKH):LADAKH YATEEM TRUST KARGIL, LYT BUILDING, THANG LANKERCHAY, SANKOO, KARGIL, UT LADAKH 194301:Children
+97:LADAKH'S WOMEN WELFARE NETWORK (LWWN) NEW SHARE:6572-S:Leh (LADAKH):Shop 22, Hemis Complex, Leh:Data Not Found
+98:Lalok Kunfan Thundel Tsogspa:2132-PS1657:Leh (LADAKH):Choglamsar, Leh-Ladakh:Data Not Found
+99:Lamauru Cultural and welfare society:1276-S:LEH (LADAKH):LAMAYURU GONPABLOCK KHALTSI Pin 194106 DISTT Leh UTLADAKH:Art & Culture
+100:LAMDON CHIDREN WELFARE SOCIETY NUBRA LEH:4402-S:Nubra (LADAKH):Deskit Nubra , DistrictLeh Ladakh:Data Not Found

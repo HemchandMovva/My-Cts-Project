@@ -1,0 +1,300 @@
+1:AASTHA:1030/Goa/2010:Mapusa (GOA):Nr. Urban Health Centre, Ghateshwarnagar, Khorlim, Mapusa.:Differently Abled,Education & Literacy,Vocational Training
+2:ABHIVYAKTEE:172/Goa/2001:Panaji (GOA):AbhivyakteePanaji C/o Sandip Deshpande A/3 Kamdhenu Dr D.V.Road PanajiGOA 403001:Art & Culture
+3:ABLETREE FOUNDATION:U80101GA2019NPL013915:Aldona (GOA):788, The Owl House, Santarxette, Aldona, North Goa, 403508:Differently Abled,Vocational Training,Skill Development
+4:ACHAL FOUNDATION GOA:120/Goa/2022:vasco (GOA):H No 62, Headland Sada, VascoGoa:Data Not Found
+5:ADARSH KRISHI KHAREDI VIKRI PRAKRIYA SAHAKARI SAUNSTHA MARYADIT:5/486/1993/ARS2/MKT:CANCOLIM BALI (GOA):KARWAR MAIN ROAD BALI CuncoliGOA SOUTH:Agriculture,Food Processing,Rural Development & Poverty Alleviation
+6:Adarsh Vidya prasarak mandal:12/1964:SHIRODA (GOA):C/O SMT KAMLABAI HEDE HIGH SCHOOL. SHIRODA-PONDA-GOA:Education & Literacy
+7:ADARSH YUVA SANGH GAONDONGRI KOTIGAO:94/Goa/2002:Goa (GOA):GaondongrimKotigao, Canacona:Data Not Found
+8:ADVENTZ FOUNDATION:488/Goa/2011:MORMUGAO (GOA):JAI KISAAN BHAWAN, ZUARINAGAR:Education & Literacy,Agriculture,Rural Development & Poverty Alleviation,Women's Development & Empowerment,Skill Development
+9:Aggressive Goans:54/GOA/2019:PONDA (GOA):Kapileshwari, Ponda Goa:Agriculture,Art & Culture,Education & Literacy,Environment & Forests,Human Rights,Labour & Employment,Legal Awareness & Aid,New & Renewable Energy,Panchayati Raj,Prisoner's Issues,Right to Information & Advocacy,Rural Development & Poverty Alleviation,Women's Development & Empowerment,Skill Development
+10:AGNEL INSTITUTE OF TECHNOLOGY AND DESIGN ALUMNI ASSOCIATION:104/Goa/2023:Assagao (GOA):Agnel Technical Educational ComplexAssagao Bardez northAssagao:Data Not Found
+11:AIC-GIM Foundation:U93090GA2018NPL013511:Sanquelim (GOA):c/o Goa Institute of Management PORIEM SATTARI North Goa GA 403000 IN:Data Not Found
+12:Akhil Gomantak Maratha Rajak Samaj:41/Goa/89:Porvorim (GOA):Sant Gadge Maharaj Sabhagraha, Gadge baba chowk, Pundalik Nagar, Alto Porvorim, Bardez Goa:Aged/Elderly,Women's Development & Empowerment,Youth Affairs
+13:AKHIL VISHWA JAI SHRIRAM GOSANVARDHAN KENDRA VALPOI:1 Of Book No.IV, Vol I:Valpoi (GOA):H,NO-61/1,Betkikarwada,Nanus ValpoiTaluka- Sattari, District-North, State-Goa:Animal Husbandry, Dairying & Fisheries
+14:Al-Falah Educational Society:24/Goa/94:FATORDA (GOA):Crescent School Chandrawada Fatorda Margao Goa:Education & Literacy
+15:ALL GOA POULTRY SHOPKEEPERS ASSOCIATION:162/Goa/2023:Navelim (GOA):H No 463/6/GF55 Shop No 5 Royal Classic Bldg Navelim Salcete South Goa Goa 403707:Any Other
+16:All India Womens Conference:19/78:Panaji (GOA):All India Womens Conference (Goa Branch), Institute Menezes Braganza, Panaji - Goa 403001:Aged/Elderly,Art & Culture,Children,Civic Issues,Differently Abled,Food Processing,Health & Family Welfare,Housing,Human Rights,Legal Awareness & Aid,Minority Issues,Micro Small & Medium Enterprises,Nutrition,Vocational Training,Women's Development & Empowerment
+17:alpha angels animal trust:1663:Mapusa (GOA):House no 175/1/V/Villa Jasmine plaza, Moria, Bardez North Goa, Mapusa, 403508:Any Other
+18:Amar Bharati Gram Vikas Sanstha:96/Goa/2003:Bicholim (GOA):Amar Bharati Gram Vikas Sanstha, Regd. Off. Anandi Rajput Niwas, Near Rotary House, Vasudev Nagar(Jogiwada),Bicholim,Goa Pin- 403529.Admn Off. H.No. 56 Laxmi Nagar, Hydershahkote, Hyderabad-500091 H.O. Plot No.3/1, H.No. 4-165 Suvarna Garden City, Saireddiguda road, Gundal Village, Chevella Mandal ,Rangareddy Distt. Telangana- 501503:Animal Husbandry, Dairying & Fisheries,Aged/Elderly,Agriculture,Art & Culture,Children,Civic Issues,Differently Abled,Disaster Management,Dalit Upliftment,Drinking Water,Education & Literacy,Environment & Forests,Food Processing,Health & Family Welfare,HIV/AIDS,Human Rights,Information & Communication Technology,Legal Awareness & Aid,Labour & Employment,Minority Issues,Panchayati Raj,Right to Information & Advocacy,Rural Development & Poverty Alleviation,Scientific & Industrial Research,Science & Technology
+19:ANANT LAXMI EDUCATIONAL AND CHARITABLE TRUST:BOOK NO 4 DOCS REGISTRATION NO:PERNEM (GOA):724 PETHECHAWADA CORGAON PERNEM GOA, 403512:Agriculture,Animal Husbandry, Dairying & Fisheries,Art & Culture,Biotechnology,Children,Civic Issues,Dalit Upliftment,Differently Abled,Disaster Management,Drinking Water,Education & Literacy,Aged/Elderly,Environment & Forests,Food Processing,Health & Family Welfare,HIV/AIDS,Housing,Human Rights,Information & Communication Technology,Labour & Employment,Land Resources,Legal Awareness & Aid,Micro Finance (SHGs),Micro Small & Medium Enterprises,Minority Issues,New & Renewable Energy,Nutrition,Panchayati Raj,Prisoner's Issues,Right to Information & Advocacy,Rural Development & Poverty Alleviation,Science & Technology,Sports,Tribal Affairs,Urban Development & Poverty Alleviation,Vocational Training,Water Resources,Women's Development & Empowerment,Youth Affairs,Any Other,Skill Development
+20:ANIMAL RESCUE FOUNDATION AND REHABILIATION CENTER TRUST:BCH-4-4-2023:SANQUELIM (GOA):H NO 2587, DINKAR NAGAR HARVALEM SANQUELIM GOA 403505:Any Other,Environment & Forests
+21:ANINHA EDUCATIONAL TRUST:15:QUEPEM (GOA):H.NO-459 PADRI BHATT AVEDEM QUEPEM 403705 SOUTH GOA:Education & Literacy
+22:ANJUMAN ISLAHUL MUSLAMEEN:569/1976:MARGAO (GOA):JAMIYA MASJID BUILDING MALBHAT MARGAO GOA:Education & Literacy
+23:Antrorse Foundation:U80903GA2022NPL015307:PORVORIM (GOA):HOUSE NO. 223/24, FF1,COELHO WADA PENHA, BARDEZ, NORTH GOA, GOA 403521:Agriculture,Children,Civic Issues,Education & Literacy,Food Processing,Health & Family Welfare,Labour & Employment,Micro Small & Medium Enterprises,Science & Technology,Scientific & Industrial Research,Skill Development,Animal Husbandry, Dairying & Fisheries,Art & Culture,Biotechnology,Dalit Upliftment,Differently Abled,Disaster Management,Drinking Water,Aged/Elderly,Environment & Forests,HIV/AIDS,Housing,Human Rights,Information & Communication Technology,Land Resources,Legal Awareness & Aid,Micro Finance (SHGs),Minority Issues,New & Renewable Energy,Nutrition,Panchayati Raj,Prisoner's Issues,Right to Information & Advocacy,Rural Development & Poverty Alleviation,Sports,Tourism,Tribal Affairs,Urban Development & Poverty Alleviation,Vocational Training,Water Resources,Women's Development & Empowerment,Youth Affairs
+24:Arannya Environment Research Organisation:206/GOA/2018:Sanquelim (GOA):C/O Mayur M Gawas, House No.7, Near Morlem Panchayat:Civic Issues,Education & Literacy,Environment & Forests,Land Resources,Scientific & Industrial Research,Water Resources,Youth Affairs
+25:ARCHDIOCESE OF GOA AND DAMAN DIOCESAN CATHECATICAL CENTRE:3269/19:OLD GOA (GOA):PASTORAL INSTITUTE ST PIUS X OLD GOA:Education & Literacy
+26:ASA Animal Shelter Agonda:BRZ-BK4-00009-2015:MAPUSA (GOA):MARBELA GUEST HOUSE, NO. 77, SINQUERIM, CANDOLIM GOA. 403519:Animal Husbandry, Dairying & Fisheries
+27:Asha Mahal Association for Social Health in India Goa State Branch:No.RS/142/76:Taliegao (GOA):Ash a Mahal, Santissmowado, Tiswadi, Taliegao, Goa 40300:Health & Family Welfare
+28:Assagao Pallottine Society:404(RS/32/73):Mapusa (GOA):Casa Pallotti, Assagao, mapusa, Goa Casa Pallotti:Any Other
+29:ATLETICO CLUBE DE SALGAOCAR FOUNDATION:U93120GA2023NPL016112:CHICALIM (GOA):SALGAOCAR CENTRE, E4, MURGAON ESTATE, CHICALIMGOA 403711:Data Not Found
+30:ATMA VISHWAS:654/Goa/2007:Pernem (GOA):Gawdewada, Mandrem Pernem Goa:Education & Literacy
+31:ATMADHARMA CHARITABLE TRUST:PNJ-BK4-00024-2017:Goa (GOA):Sai Samarth Niwas, 70/01 Chinchwada, Chimbel:Children,Education & Literacy,Aged/Elderly,Food Processing,Women's Development & Empowerment,Any Other,Skill Development
+32:Auxilium salesian society:60/Goa/85:Panjim (GOA):auxilium convent, caranzalem:Education & Literacy
+33:AWWA (S.C.A.T.U) HEALTH CARE FOUNDATION:U85300GA2021NPL014895:GOA (GOA):OFFICE NO. 815 PATTO PLAZA, GERA IMPERIUM STAR, PANJIM, GOA PANJIM North Goa, PIN- 403001:Children,Civic Issues,Education & Literacy,Health & Family Welfare,Human Rights,Urban Development & Poverty Alleviation,Youth Affairs,Skill Development
+34:AYYAPPA SEVA SAMITHI:42/GOA/80:VASCO (GOA):PB NO 131, Shree Ayyappa Temple , Mangor Hill, Vasco Da Gama:Art & Culture
+35:Bailancho Ekvott:64/Goa/99:Margao (GOA):H.No. 172, Rua de Padre Miranda Margao Goa:Education & Literacy,Environment & Forests,Health & Family Welfare,HIV/AIDS,Human Rights,Legal Awareness & Aid,Minority Issues,Prisoner's Issues,Right to Information & Advocacy,Rural Development & Poverty Alleviation,Tribal Affairs,Urban Development & Poverty Alleviation,Vocational Training,Women's Development & Empowerment,Youth Affairs
+36:Bal Gyan Vikas Education Society:685/Goa/2008:Mapusa (GOA):35D/3, Dias Villa, Opp. Tivim Ind. Estate, Karaswada, MapusaGoa:Data Not Found
+37:BARABHUMI EDUCATION SOCIETY:29/Goa/80:PONDA (GOA):BARABHUMI HIGH SCHOOL TAMBDI SURLASANCORDA DHARBANDORA GOA:Data Not Found
+38:Bethany Educational Society Goa:3/Goa/02:Panjim (GOA):Bethany Convent High School Igrejawado, Nessai, Sao Jose De Areal.:Data Not Found
+39:Bethesda children home:MGO-BK4-00150-2018,CDNOMGOD127:Margao (GOA):PresentAddress Bethesda Children Home, H.NO. 58/A, Besides White Sand Plaza, Behind Vaz Enterprises Wine Shop, Per-Seraulim, Margao, Colva- Goa PINCODE- 403708. Contact No-91 8408967740,91 9923246717.:Children,Education & Literacy
+40:Bethesda Life Centre:16 in Book No. IV, Volume 3:Santa Cruz (GOA):1503/3 Rego Bagh, Bambolim Complex, Alto Santa Cruz, Goa - 403202:Women's Development & Empowerment
+41:BHARATEEYA SANSKRITI PRABHODINI:13/Goa/92:Ponda (GOA):Bharateeya Sanskriti Prabodhini, Vazem, Shiroda, Goa 403103:Education & Literacy,Health & Family Welfare,Education & Literacy,Health & Family Welfare
+42:BHAUSAHEB BANDODKAR SHIKSHAN SAUNSTHA:494:Dharbandoda (GOA):Piliem-Dharbandoda-Goa 403406:Data Not Found
+43:BITS Goa Innovation, Incubation & Entrepreneurship Society:31/GOA/2020:Vasco da gama (GOA):BITS Goa Innovation, Incubation and Entrepreneurship Society, BITS Pilani KK Birla Goa Campus, Zuarinagar:Agriculture,Animal Husbandry, Dairying & Fisheries,Biotechnology,Environment & Forests,Food Processing,Health & Family Welfare,Information & Communication Technology,Micro Small & Medium Enterprises,Nutrition,Rural Development & Poverty Alleviation,Science & Technology,Scientific & Industrial Research,Women's Development & Empowerment
+44:Bookworm Trust:876/14:Panaji (GOA):Registered address Bookworm, F- 6, Bluebelle, Tamba Colony, St.Inez, Panaji. 403 001 Working address House no 127, Mala, Panaji, Goa, 403 001:Children
+45:CANDOLIM BEACH WATERSPORTS SOCIETY:186/GOA/2018:CANDOLIM (GOA):HOUSE NO. 914/A:Data Not Found
+46:Canossa Society Goa:86/GOA/86:Arambol (GOA):Stella Maris, Canossian Sisters,Modlo Vado, Arambol, Pernem Goa.:Education & Literacy
+47:Care and Compassion Goa:18/2002 Book IV:Margao (GOA):House No.450, DEULIMODI, MOLLAR, SARZORA, SALCETE, SOUTH GOA, GOA 403715.:Children,Women's Development & Empowerment
+48:Carmel Society:463 of 1974:Nuvem (GOA):Carmel College, Nuvem, Salcete Goa 403 713:Data Not Found
+49:CARMELITE MONESTRY:580:VASCO DA GAMA (GOA):C/O CLOISTERED CARMEL CHICALIM:Agriculture,Disaster Management,Rural Development & Poverty Alleviation,Women's Development & Empowerment
+50:CENTRAL FUND OF ARCHDIOCESE OF GOA AND DAMAN:271830008:PANJIM (GOA):Bishop House, Altinho Panjim,Goa-403001:Education & Literacy,Any Other
+51:CENTRE FOR INCUBATION AND BUSINESS ACCELERATION:U93000GA2013NPL007355:Goa (GOA):CENTRE FOR INCUBATION AND BUSINESS ACCELERATION, AGNEL CHARITIES, AGNEL ASHRAM, SALCETE, VERNA:Biotechnology,Food Processing,Information & Communication Technology,Any Other
+52:CHAITANYAVEER AMONA:143/Goa/2023:Panaji (GOA):H.No.164, Kalam-Wada, Amona-Goa:Agriculture,Art & Culture,Education & Literacy,Aged/Elderly,Environment & Forests,Health & Family Welfare,Labour & Employment,Science & Technology,Sports,Youth Affairs,Skill Development
+53:chandor jyothi seva sangh:195/GOA/2004:MARGAO (GOA):PALLOTTI JYOTHI NIWAS GUIRDOLIM, CHANDOR PONSABHAT GOA- 403714:Education & Literacy
+54:Charles Correa Foundation:PNJ-BK4-00027-2011:Panjim (GOA):169, San Sebastian Road, Fontainhas:Art & Culture,Housing,Urban Development & Poverty Alleviation
+55:chetna charitable trust curchorem:266/goa/2009:curchorem (GOA):visawa,410, cariamoddi, curchoremgoa. 403706:Differently Abled,Differently Abled
+56:Child's Play India Foundation:11/BookIV/Vol 9/543-560:Panaji (GOA):Casa da Moeda, Near Head Post Office:Art & Culture,Children
+57:CHILDRENS RIGHTS IN GOA CRG:25 /Goa/ 2006:Alto Porvorim (GOA):H. No. 754/1(11),2nd Floor, Christina Apartments:Children
+58:Chorao Educational Society:301/1970:Chorao (GOA):Chorao Educational Society, Boctawada, Chorao, Tiswadi - Goa. 403 102:Education & Literacy
+59:Chowgule Education Society:15/Goa/2013:Vasco Da Gama (GOA):Chowgule House Mormugao Harbour Vasco Da Gama Goa403803:Education & Literacy,Science & Technology
+60:CITIZENS WELFARE EDUCATIONAL SOCIETY:401/GOA/2016:PANAJI (GOA):H. NO. 381 ST. CAITAN RESIDENCY, A4-G4, MURDA, MERCES TISWADI:Art & Culture,Education & Literacy
+61:Coastal Impact:11829:Aldona (GOA):339/2A, COIMA VADDO, QUITULA, ALDONA, BARDEZ:Education & Literacy,Environment & Forests,Tourism
+62:Community Resource Foundation:263/GOA/2003:Vasco (GOA):C/o. Peter Dsouza, Nathan Bldg, Opp. 2nd floor, Birla police outpost Birla Sancole Goa. 403726:HIV/AIDS
+63:CONGREGATION OF SRS OF ST JOSEPH OF CLUNY:57/73:MARGOA (GOA):CONGREGATION OF THE SISTERS OF ST JOSEPH OF CLUNY ,ST ANTONYS HOME,VERNA, SALCETE ,GOA ,NORTH GOA/SOUTH GOA-403733:Data Not Found
+64:COOJ Mental Health Foundation:2211:Mapusa (GOA):H.No. F1, Manoshanti, Boa Vista, Bastora, Mapusa, Bardez, Goa - 403507:Data Not Found
+65:cornerstone education and welfare society:132/Goa/2005:Benaulim (GOA):Cornerstone Education and Welfare Society The Benaulim LightHouse 1249, Mazil Vaddo:Education & Literacy
+66:CROCOTRYLES RUGBY FOUNDATION:170/GOA/2023:COLVA (GOA):H.NO. 174, OPP. MENINO JESUS CHAPEL, PADRIGUELEM, SERNABATIM, COLVA:Sports
+67:CURACAO DE JESUS DIOGO MENINO INACIO FURTADO MEMORIAL TRUST:1355:GOA (GOA):HOUSE NO 364, GABRIELCRUZ WEST, UTORDA SALCETE GOA-403713, INDIA:Agriculture,Art & Culture,Children,Education & Literacy,Aged/Elderly,Food Processing,Health & Family Welfare,Science & Technology,Sports,Vocational Training,Women's Development & Empowerment,Youth Affairs,Any Other,Skill Development
+68:Curators Foundation:PNJ-4-4-2020:Tiswadi (GOA):AL- Barakat, 136/11, Dateshwar Residency, Kirlawada, Chimbel:Education & Literacy,Civic Issues,Human Rights,Micro Small & Medium Enterprises,Women's Development & Empowerment,Any Other,Health & Family Welfare
+69:Curtorim Educational and Welfare Foundation:19/78:Curtorim (GOA):Curtorim, Salcete Goa:Education & Literacy
+70:DAMODAR KALA VAIBHAV:42/GOA/1987:DABOLIM (GOA):ALTO-DABOLIM ,VASCO GOA:Education & Literacy
+71:DAYANAND SHIKSHAN SAUNSTHA MARGAO GOA:70/Goa/2022:Margao (GOA):T B Cunha New High School, Aquem, Margao Goa:Education & Literacy
+72:Dayasagar Medical Society:144/Goa/04:Saligao (GOA):Lourdes Convent, Sonarbhatt:Children,Health & Family Welfare,HIV/AIDS,Any Other
+73:Deepak Tripathi Educational Trust:AADTD7630G:goa (GOA):Gitanjali, Tulip Block, Dr. Rego Bagh, Alto Santacruz, Bambolim Complex Post Office, Goa403 202:Education & Literacy
+74:DELTIN FOUNDATION:U85499GA2023NPL016163:Bardez (GOA):Delta Centre H No 850 offN.H. 17, Porvorim, North, Alto-porvorim, North Goa, Bardez, Goa, India, 403521:Children,Education & Literacy,Aged/Elderly,Food Processing,Health & Family Welfare,Labour & Employment,New & Renewable Energy,Women's Development & Empowerment,Youth Affairs,Any Other,Skill Development
+75:Dempo charities Trust's Dhempe College of Arts & Science:AC-01:Panaji (GOA):Miramar, Panaji, Goa.403001:Data Not Found
+76:DHANVANTARI PRATISHTHAN GOA:PON-4-13-2022:Ponda (GOA):Siddh Mallikaarjun Niwas, Second lane, near Kendriya Vidyalay, Kurti, Ponda:Education & Literacy,Environment & Forests,Sports,Any Other,Skill Development
+77:DIOCESAN CENTRE FOR SOCIAL COMMUNICATIONS MEDIA:271830055:PANJIM (GOA):79, PACO PATRIARCAL, ALTINHO, PANJIM, GOA-403001:Education & Literacy,Any Other
+78:Diocesan Family Service Centre Goa:271830057:PANAJI (GOA):H. NO. 7-2, DAYANAND BANDODKAR MARG, OPP. STEAMER JETTY, PANJIM, GOA 403001:Data Not Found
+79:DIOCESAN SOCIETY OF EDUCATION:466:PANAJI (GOA):INSTITUTO NOSSA SENHORA DE PIEDADE D.B. MARG , PANAJI:Data Not Found
+80:DISHA CHARITABLE TRUST:1121/94:Panaji (GOA):Disha Charitable Trust Behind Old Directorate of Education 18th June Road Panaji - Goa pincode-403001:Differently Abled
+81:DISHA SOCIETY FOR SPECIAL CHILDREN:220/Goa/2005:Panaji (GOA):Behind Directorate of Education, Dr. Atmaram Borkar Road, Panaji (Goa)403 001, India.:Any Other
+82:DON BOSCO AGRICULTURE TRAINING AND RESEARCH SOCIETY:122/GOA/2012:QUEPEM (GOA):DON BOSCO AGRO-ED COMPLEX, SULCORNA QUEPEM GOA:Agriculture,Education & Literacy
+83:Don Bosco Farmers Rehabilitation society:387 DATED 10/01/1973:QUEPEM (GOA):DON BOSCO FARMERS REHABILITATION SOCIETY, SULCORNA, P.O- PIRLA, QUEPEM -GOA 403705:Children
+84:DON BOSCO LUOTOLIM SOCIETY:118/Goa/94:Loutolim (GOA):Carcol, Loutolim Salcete:Agriculture,Education & Literacy,Vocational Training
+85:DON BOSCO SCHOOL SOCIETY:63/Goa/85:Quepem (GOA):Don Bosco School Society Premnagar Quepem Goa:Data Not Found
+86:DR FRANCISCO LUIS GOMES MEMORIAL TRUST:Book.No.IV/Vol.No.II/296-311:Salcete (GOA):"Luchel" Caminho De Monte, Margao:Agriculture,Health & Family Welfare,Any Other
+87:Dr Keshav Baliram Hedgewar Shikshan Prasarak Mandal:46/Goa/90:Panaji (GOA):Dada Vaidya Road, Panaji,Goa-403001:Education & Literacy
+88:DUDHSAGAR KRISHI UDYOG SOCIETY:24/goa/88:Ponda (GOA):PILAR FATHER FARM,SHIGOA COLLEM,PONDA DIST-UTPIN. 403410:Education & Literacy
+89:Eco Kshatriya Foundation:338/GOA/2018:Panaji (GOA):H.No. 679, Bairo Palmar, Foro Cupa,St. Estevam, Tiswadi,North Goa Goa Pin-403106:Agriculture,Civic Issues,Disaster Management,Drinking Water,Environment & Forests,Labour & Employment
+90:El Shaddai Charitable Trust:9/Bk.IV/Vol1:Mapusa (GOA):El Shaddai Charitable Trust, 251, Socol Vaddo, Assagao, Bardez, Goa, 403507:Children,Education & Literacy,Right to Information & Advocacy,Women's Development & Empowerment,Youth Affairs,Disaster Management,Nutrition
+91:ENTREPRENEURS ORGANIZATION (GOA CHAPTER):178/GOA/2018:PANAJI (GOA):PLT NO 690,INDIRABAI NEAR VASTU HERMITAGE OFF NH4A CHIMBEL NORTH -GOA:Data Not Found
+92:Environement Conservation and Research Organisation (ECRO):344/GOA/2015:Pale (GOA):H.No. 151, Ambica nagar, Bhamai, Pale-Goa:Environment & Forests,Agriculture,Animal Husbandry, Dairying & Fisheries,Art & Culture,Drinking Water,Education & Literacy,Science & Technology,Scientific & Industrial Research,Tourism,Water Resources,Youth Affairs
+93:FAITH WORKS INDIA:NO.14 VOLUME NO. 9:PANJIM (GOA):SHALOM, PLOT NO. 123, VAINGUINUM VALLEY, DONA PAULA GOA 403004:Any Other
+94:fatima society:445/goa/1973:Margao (GOA):0,fatima convent near old bus stand ,margao goa:Education & Literacy
+95:FI-SABILILLAH EDUCATIONAL SOCIETY:68/Goa/2018:MARGAO (GOA):P.no 276 Muneer Residency Near Quba Masjid Khareband Sirvodem Margao Goa:Education & Literacy
+96:FORUM FOR INNOVATION INCUBATION RESEARCH AND ENTREPRENEURSHIP:U74999GA2017NPL013098:Fatorda (GOA):Fatorda, Salcete, Goa:Data Not Found
+97:FR AGNEL TRUST:20:GOA (GOA):TOWN CITY -PILAR DIST PILARPIN. 403203:Education & Literacy
+98:FR FAUSTINO DSOUZA SOCIAL SERVICE INSTITUTE:112/GOA/88:PANAJI (GOA):NIRMALA NIVAS MASTIMOL CANACONA GOA:Education & Literacy,Health & Family Welfare
+99:FUTSAL ASSOCIATION OF GOA:163/GOA/2016:ASSOLNA (GOA):GF PEARL BUILDING OPP ASSOLNA CHURCHASSOLNA ,SALCETESOUTH GOA -403701:Art & Culture,Children,Disaster Management,Sports,Youth Affairs
+100:GANDHI MARKET COMPLEX SHOP OWNER'S ASSOCIATION:172/goa/2021:GOA (GOA):SAI ELECTRONICS AND ELECTRICALS, SHOP NO-207, GANDHI MARKET COMPLEX MARGAO, GOA:Housing
+1:GAWADA-KUNBI-VELIP & DHANGAR FEDERATION:48/GOA/1981:MARGAO (GOA):SHOP NO 13 SHAR NSORAI COOPERATIVE HOUSING SOCIETY Ltd. V.V.R. ROADMargao H.O SalceteSOUTH GOA INDIA403601:Education & Literacy
+2:GDP Foundation:PNJ-4-12-2019:Panaji (GOA):8A T4, Models Legacy, Taleigao Goa, North Goa, GOA, India403002:Agriculture,Education & Literacy,Health & Family Welfare
+3:GLOBAL GOAN ASSOCIATION:73/GOA/2023:NORTH GOA (GOA):FLAT 6/9A/SF-F-7 KHOBRA VADDO CALANGUTE GOA 403516:Tourism
+4:GOA ANIMAL WELFARE TRUST:1067:CURCHOREM (GOA):NEAR AMBEDKAR CIRCLE, BASAI, CACORA:Any Other
+5:GOA ATMANIRBHAR FOUNDATION:98/GOA/2021:PONDA (GOA):FS-1, IST FLOOR,ANTANASIA,ABOVEORIENTAL BANK OF COMMERCE,NR CAFÉ BHONSLE,PONDA, NORTH GOA – 403 401:Environment & Forests,New & Renewable Energy,Education & Literacy,Rural Development & Poverty Alleviation,Scientific & Industrial Research,Vocational Training,Water Resources,Skill Development
+6:GOA BAPTIST FELLOWSHIP:PNJ-BK 4-00021-2005:Goa (GOA):House No. 181/CL/13(1):Children,Education & Literacy
+7:Goa Education Society of Fatorpa:99/Goa/2010:Cuncolim (GOA):Devappa Town, Cotta, Fatorpa, Cuncolim, Goa 403703:Data Not Found
+8:GOA INSTITUTE OF FASHION AND BEAUTY:MGO-4-37-2021:Margao (GOA):Office No.205, 2nd Floor, Gracias Plaza Opp. Fatima Convent School, Old Bus Stand, Margao Salcete ,Goa 403601:Data Not Found
+9:Goa Institute of Management:35/Goa/94:Sanquelim (GOA):Goa Institute of Management Sanquelim Poriem Sattari:Data Not Found
+10:Goa Institute of Training & Studies:MOR-4-4-2019:VASCO (GOA):B-205, UMIYA SOLICITUDE,NEAR MES COLLEGE, ZUARINAGAR, 406726:Education & Literacy,Any Other
+11:GOA JESUIT SOCIAL ACTION:PNG-4-20-2022:Miramar (GOA):C/O Loyola Hall , C,13/ H.No 753 Miramar, Panaji403001:Children,Civic Issues,Human Rights,New & Renewable Energy,Women's Development & Empowerment
+12:GOA LIVELIHOODS FORUM:PNJ-4-15-2021:GOA (GOA):GOA LIVELIHOODS FORUM 301, 3RD FLOOR, SAI PLAZA BUILDING ABOVE NKGSB BANK, OPPOSITE GOMANTAK OFFICE, ST INEZ, PANJIM, PIN-403001:Women's Development & Empowerment,Skill Development,Rural Development & Poverty Alleviation,Youth Affairs,Any Other
+13:GOA SANSKRIT ACADEMY:338/GOA/2016:PONDA (GOA):Tapobhoomi, KundaimPonda Goa -403115:Art & Culture,Children,Differently Abled,Disaster Management,Drinking Water,Education & Literacy,Food Processing
+14:GOA SPECIAL SCHOOLS ASSOCIATION:180/GOA/2013:PANAJI (GOA):C/O SANDHYA KALOKHE, DISHA SCHOOL FOR SPECIAL CHILDREN, BEHIND OLD EDUCATION DEPT. A B ROAD:Differently Abled
+15:GOA VIDYA PRASARAK MADAL:18:Ponda (GOA):Dr. Dada Vaidya Vidya Sankul, Nr. Almeida High school, Ponda-Goa.:Education & Literacy
+16:Goaforgiving Trust:PNJ-BK4-00023-2011:Panaji (GOA):Gonsalves Mansion, H.No. 141, Campal, Panjim, Goa.:Art & Culture
+17:GOEMCHE SEVA FOUNDATION:U85300GA2022NPL015541:GOA (GOA):H NO 7/257/7/1, OFFICE NO,7, KHALAP BUILDING ABOVE CANARA BANK, MAPUSA, North Goa, Goa, India, 403507:Education & Literacy,Human Rights,Information & Communication Technology,Legal Awareness & Aid,Rural Development & Poverty Alleviation,Urban Development & Poverty Alleviation,Women's Development & Empowerment,Youth Affairs,Any Other,Skill Development
+18:GOENCHINARISHAKTI:480/GOA/2017:MAPUSA (GOA):C PINTO VERDANT BLOCK A2,F2 MAPUSA GOA 403507:Animal Husbandry, Dairying & Fisheries,Art & Culture,Children,Dalit Upliftment,Education & Literacy,Aged/Elderly,Environment & Forests,Health & Family Welfare,HIV/AIDS,Human Rights,Information & Communication Technology,Labour & Employment,Legal Awareness & Aid,Minority Issues,Nutrition,Panchayati Raj,Prisoner's Issues,Right to Information & Advocacy,Rural Development & Poverty Alleviation,Tourism,Urban Development & Poverty Alleviation,Vocational Training,Women's Development & Empowerment,Youth Affairs
+19:Gomantak Gausevak Mahasangh Shikeri Goa:424/2015:Bicholim (GOA):Shikeri Mayem Bicholim Goa 403504:Animal Husbandry, Dairying & Fisheries
+20:GOMANTAK RASHTRABHASHA VIDYAPITH:RS/215/74:MADGAON (GOA):COMMUNIDADE BUILDING,POST BOXNO.32, MADGAON, SALCETE, SOUTH GOA.403601:Education & Literacy
+21:GRACE EDUCATIONAL TRUST:106/2007:Panjim (GOA):No. 192A, Opp. A3, PWD Quarters, Altinho:Data Not Found
+22:Green Trust Goa:2020-BRZ-1449:Porvorim (GOA):A5, Solsons Adobe, Behind Siddarudh Mutt, Opp. Pizza Hut, Chogum Road, Porvorim, Goa:Any Other
+23:GUJARATI SAMAJ EDUCATIONAL TRUST FOR THE HANDICAPPED:416:MARGAO (GOA):GUJARATI SAMAJ EDU. TRUST FOR THE HANDICAPPED NEAR MARUTI MANDIR, AQUEM MARGAO GOA 403601:Differently Abled
+24:Gyanmala Public Education Trust:176:Mormugao (GOA):Behind BITS Pilani Campus, NH 17 B, Sancoale, Zuarinagar:Education & Literacy
+25:HANDS TO HELP:342/GOA/2016:BICHOLIM (GOA):HOUSE NO 01 FANASKUNGO, PILIGAO, BICHOLIM GOA 403504 MOB 9764540042:Sports,Environment & Forests,Rural Development & Poverty Alleviation,Any Other,Art & Culture,Education & Literacy,Health & Family Welfare,Human Rights,Agriculture,Animal Husbandry, Dairying & Fisheries
+26:HELP INDIA:05/08:Panaji (GOA):5, Eutico Apartments, Buttem Bhat, Merces, Goa:Children,Education & Literacy,Health & Family Welfare,HIV/AIDS,Youth Affairs
+27:Helping Hands Social Trust:BRZ-BK4-00015-2018:Mapusa (GOA):Ho No. 112 khadpa vaddo, Near Football Ground Cunchelim, Mapusa Bardez, Goa.:Children
+28:Holy Childhood:Declaration:Panjim (GOA):Institute Piedade, D.B. Marg, Near Hotel Mandovi, Panaji Goa.:Children,Education & Literacy,Nutrition
+29:Holy Cross Corso Farm Welfare Society:538:Mapusa (GOA):Holy Cross Corso Farm Marna Siolim:Children,Education & Literacy,Health & Family Welfare,Rural Development & Poverty Alleviation
+30:HOLY FAMILY SOCIETY:RS/49/74:GOA (GOA):HOLY FAMILY CONVENT SANCOALE, CORTALIM:Children,Differently Abled,Education & Literacy,Aged/Elderly,Health & Family Welfare
+31:Human Touch Foundation:388/GOA/2016:Goa (GOA):H. No. 681, Dugrem, Agassiam, IlhasGoa:Children,HIV/AIDS,Human Rights,Rural Development & Poverty Alleviation,Youth Affairs
+32:HUSSENEN EDUCATION & FELLOWSHIP SOCIETY:03/Goa/1979:PANAJI (GOA):NAWAZ MANZIL, GAWALE BHAT, CHIMBEL TISWADI, GOA:Art & Culture,Education & Literacy
+33:I HELP FOUNDATION GOA:273/GOA/2016:PORVORIM (GOA):PORVORIM, ALTO PORVORIM, PENHA DE FRANCA GOA-403501:Environment & Forests,Women's Development & Empowerment,Any Other,Children,Education & Literacy,Human Rights,Skill Development
+34:IMA PONDA CHARITABLE TRUST:229/2005/PONDA:PONDA (GOA):2ND FLOOR, KURTARKAR COMMERCIAL ARCADE PHASE II, KAZIWADA, PONDA-GOA:Health & Family Welfare
+35:Immaculate conception high school:466:Quepem (GOA):Immaculate Conception High School, Avedem, Paroda, Quepem, Goa:Education & Literacy
+36:Indian Students Educational Aid Foundation:133/Goa/95:Siolim (GOA):Keerti Vidyalaya Building, Rai, Siolim, Bardez, Goa403517:Education & Literacy
+37:Indo Portuguese Friendship Society Goa:6/GOA/93:Panaji (GOA):SANTOSH TAMBA BUILDING ALTINHO PANJIM GOA:Data Not Found
+38:INSTITUTE OF SOCIAL SERVICE:RS/82/74:PANAJI (GOA):NIRMALA NIVAS ALTINHO PANAJI GOA 403001:Civic Issues
+39:INTERNATIONAL SADGURU FOUNDATION:IN-DL81064991418119P:PONDA (GOA):SHREE KSHETRA TAPOBHOOMI KUNDAIM, PONDAGOA:Agriculture,Art & Culture,Children,Education & Literacy,Health & Family Welfare,Tourism
+40:INWPF CHILD & WOMEN WELFARE ASSOCIATION:U85300GA2021NPL014994:GOA (GOA):HOUSE NO 231/8/6 SANTARBHAT DIVAR PANJIM GOA North Goa Pin- 403403 India:Children,Civic Issues,Education & Literacy,Human Rights,Vocational Training,Women's Development & Empowerment,Youth Affairs,Any Other,Skill Development
+41:ISHAPREMA NIKETAN SANGH (GOA):451:ASSAGANV BARDEZ (GOA):ISHAPREMA NIKETAN ASSAGANV:Aged/Elderly
+42:JAGAT JANANI:212/GOA/2016:PONDA (GOA):SHREE KSHETRA TAPOBHOOMI, KUNDAIM, GOA:Agriculture,Art & Culture,Children,Education & Literacy,Food Processing,Human Rights,Women's Development & Empowerment
+43:JAMIYA E MAQBULIYA EDUCATIONAL SOCIETY:219/Goa/2015:Ponda (GOA):KGN nagar, Kasarwada, bethora, ponda Goa:Education & Literacy
+44:JAN JAGRUTI SAUNSTHA:86/GOA/96:SOUTH GOA (GOA):SHOP NO 1 ,1 ST FLOOR, MUNICIPAL BUILDING QUEPEMGOA:Data Not Found
+45:JAN UGAHI:542:MARGAO (GOA):V19 VIKRANT, 5TH FLOOR,MALBHAT, MARGAO 403601 SALCETE:Education & Literacy,Health & Family Welfare,Vocational Training,Skill Development
+46:JANAKALYAN SEVA SAMITI TRUST:BRZ-4-15-2023:CANCA (GOA):C/o Chandrabhan Nishad H No 252/6 , Pinto Wado Canca BardezGoa:Data Not Found
+47:Janautkarsha Shikshan Mandal:137/Goa/2001:Ponda (GOA):ME 2 Housing Board Colony Curti Ponda Goa:Children
+48:JANHIT MANDAL PARVARI:695/GOA/2007:PORVORIM (GOA):F-6, MANSUKH APARTMENTS, B.B. BORKAR ROAD, ALTO- PARVARI, BARDEZ. GOA -403521:Data Not Found
+49:JAY HANUMAN CHARITABLE TRUST SANCORDEM:DRB-BK4-0003-2018:SANCORDEM (GOA):MARUTI GAD, NAVEM, SANCORDEM, DHARBANDORA GOA 403406:Data Not Found
+50:Jesus Centre Goa:14/GOA/2005:Panaji (GOA):Alfran Plaza, 2nd Floor, Near Don Bosco, M. G. Road:Data Not Found
+51:Just Imagine:MGO-BK4-00025-2017:Colva (GOA):Just Imagine Baywatch Resort Sernabatim Beach Road Sernabatim, Colva, SalcetteGoa:Data Not Found
+52:Karuna Football Foundation:PON-4-14-2021:ponda (GOA):D/3 Sapna Park Bethora Road, Ponda, Goa 403401:Children,Education & Literacy,Health & Family Welfare,Nutrition,Rural Development & Poverty Alleviation,Sports,Vocational Training,Women's Development & Empowerment,Youth Affairs,Any Other,Skill Development
+53:KERI TEREKHOL AREA DEVELOPMENT WELFARE AND EDUCATION SOCIETY:429:Pernem (GOA):Talwada Keri Pernem Goa:Disaster Management,Education & Literacy
+54:Keshav Seva Sadhana:67/Goa/92:Ponda (GOA):Om Durganagar Bori Ponda Goa:Education & Literacy
+55:KHRISTI AND SON'S FOUNDATION:U85100GA2022NPL015125:SOUTH GOA (GOA):HOUSE NO. 498/22, PANJIM, LANDMARK ZORCANTOR, KUMARJUA:Agriculture,Art & Culture,Biotechnology,Children,Civic Issues,Disaster Management,Drinking Water,Education & Literacy,Environment & Forests,Food Processing,Health & Family Welfare,Tribal Affairs,Vocational Training,Water Resources,Women's Development & Empowerment,Youth Affairs,Any Other,Skill Development
+56:KOMAL HRADAYA CHARITABLE TRUST:1536:GOA (GOA):D-2 4TH FLOOR RELIANCE ENCLAVE NEAR CHAILD CARE SCHOOL MARGAO SOUTH GOA 403601:Agriculture,Animal Husbandry, Dairying & Fisheries,Art & Culture,Children,Civic Issues,Drinking Water,Education & Literacy,Aged/Elderly,Food Processing,Health & Family Welfare,HIV/AIDS,Human Rights,Science & Technology,Sports,Urban Development & Poverty Alleviation,Vocational Training,Women's Development & Empowerment,Youth Affairs,Any Other,Skill Development
+57:Konkan Development Society:207/GOA/2005:Panaji (GOA):Don Bosco Provincial House Odxel, Goa University P.O. Goa 403206 India:Education & Literacy,Vocational Training,Women's Development & Empowerment,Any Other
+58:Konkani Bhasha Mandal:69/GOA/2013:Margao (GOA):Konkani Bhavan, Shankar Bhandari Marg,Vidyanagar, Ghogol, Margao, Goa. 403601:Art & Culture,Children,Dalit Upliftment,Education & Literacy,Women's Development & Empowerment,Youth Affairs
+59:Late Harishchandra Khandeparkar Kala Manch:124/Goa/2000:Dharbandora (GOA):House of Gopal Khandeparkar, Bolkornem, Sacorda Goa 403406:Children
+60:Live Happy NGO:257/GOA/2015:Mapusa (GOA):Ho. No. 235/1; Mazal Wado; Assagao Bardez; Goa. Pin- 403507:Art & Culture,Children,Education & Literacy,Environment & Forests,Rural Development & Poverty Alleviation,Tourism
+61:Lokvishwas Pratishthan:89/Goa/88:Ponda (GOA):Lokvishwas Pratishthan Shantadurga Krupashram, Dhavali, Kapileshwari, Ponda- Goa.:Differently Abled
+62:Madkai Gram Education Society:RS/DCA/SK/453:Ponda Goa (GOA):Madkai Gram Education Society Madkai Goa:Data Not Found
+63:MAHABALI ANIMAL ASHRAM:PNM-4-2-2023:Pernem (GOA):4/68 Rauraje palace Nanerwada, Pernem Goa 403512:Animal Husbandry, Dairying & Fisheries
+64:MANDEV FOUNDATION:100/GOA/2020:Saligao (GOA):9/36A/5, Don Waddo, Saligao, Bardez:Data Not Found
+65:MANHAR FOUNDATION:U87200GA2023NPL016210:Ponda (GOA):H. No-432/1, Kalmamol, Borim, Ponda, Borim, Ponda, South Goa- 403401, Goa:Science & Technology
+66:margaocricketclub:221/Goa/02:margao (GOA):DR. RAJENDRA PRASAD STADIUM MARGAO, SALCETEGOA, 403601:Any Other
+67:MARGARET BOSCO BAL SONVSTHA:548/GOA/2008:MAPUSA (GOA):Margaret Bosco Bal Sonvstha, H. NO. 6 , Gandhyar, Paliem Uccassaim P. O. Bardez North Goa403507:Children
+68:Maria Crescencia Menezes Memorial Educational Trust:544:PANAJI (GOA):3RD FLOOR DTC BLDG EDC COMPLEX PATTO PLAZA:Education & Literacy
+69:MARIA PIEDADE CHARITABLE TRUST:PNJ-427-2023:Panjim (GOA):135/C22, Dona Paula, Village Panchayat Taleigao, TiswadiGoa:Data Not Found
+70:MARY'S SOCIETY:RS/7/74:MAPUSA (GOA):ST. MARYS CONVENT HIGH SCHOOL MAPUSA BARDEZ GOA. 403507:Education & Literacy
+71:Matruchhaya:CH/JJA/CRT./7:Ponda (GOA):Matruchhaya Shantadurga Prasad Dhavli, Kavle Ponda 403401:Children
+72:MENINO DRAMATIC TROUPE BENAULIM:139/GOA/2023:BENAULIM (GOA):C/O MENINO FERNANDESH NO 1393/A MAZILVADDO OPP POST OFFICE BENAULIM SALCETE SOUTH GOA INDIA 403716:Data Not Found
+73:Mineral Foundation of Goa:164/GOA/2000:PANAJI (GOA):FIRST FLOOR, VAGLO BUILDING, PANAJI:Agriculture,Animal Husbandry, Dairying & Fisheries,Children,Civic Issues,Dalit Upliftment,Differently Abled,Drinking Water,Education & Literacy,Aged/Elderly,Environment & Forests,Health & Family Welfare,HIV/AIDS,Micro Finance (SHGs),Panchayati Raj,Rural Development & Poverty Alleviation,Science & Technology,Tourism
+74:MODA GOA FOUNDATION:PNJ-BK4-00025-2016:PANAJI (GOA):301, 3RD FLOOR, C WING,RIZVI TOWERS, 18TH JUNE ROAD, ST. INEZ, PANAJI, GOA. 403001:Art & Culture
+75:MODEL EDUCATION SOCIETY:39/Goa/87:MARGAO (GOA):C/O BHATIKAR MODEL HIGH SCHOOL OLD HOUSING BOARDGOGOL MARGAO GOA:Data Not Found
+76:MOHAMADEN EDUCATIONAL FOUNDATION:267/Goa/02:Ponda (GOA):13-NAGAMASJID, P.O. PONDA, GOA-403401:Children,Agriculture,Animal Husbandry, Dairying & Fisheries,Art & Culture,Biotechnology,Civic Issues,Dalit Upliftment,Differently Abled,Disaster Management,Drinking Water,Education & Literacy,Aged/Elderly,Environment & Forests,Food Processing,Health & Family Welfare,HIV/AIDS,Housing,Human Rights,Information & Communication Technology,Labour & Employment,Land Resources,Legal Awareness & Aid,Micro Finance (SHGs),Micro Small & Medium Enterprises,Minority Issues,New & Renewable Energy,Nutrition,Panchayati Raj,Prisoner's Issues,Right to Information & Advocacy,Rural Development & Poverty Alleviation,Science & Technology,Scientific & Industrial Research,Sports,Tourism,Tribal Affairs,Urban Development & Poverty Alleviation,Vocational Training,Water Resources,Women's Development & Empowerment,Youth Affairs,Any Other,Skill Development
+77:MONTE DE GUIRIM EDUCATIONAL SOCIETY:RS/114/75:MAPUSA (GOA):MONTE DE GUIRIM EDUCATIONAL SOCIETY GROUND FLOOR GUIRIM MAPUSA BARDEZ GOA403507:Children,Education & Literacy
+78:Mormugao Sunni Muslim Federation:20/Goa/95:Verna (GOA):Makhdoom Ashraf Nagar, Opposite Verna Industrial Estate, CortalimGoa:Education & Literacy
+79:Murgaon Education Society:330:Vasco Da gama (GOA):Joshi Building,First Floor, F.L.Gomes Road, Vasco Da Gama, Goa 403802:Education & Literacy
+80:Museum of Christian Art Goa:122/Goa/92:OLD GOA (GOA):Museum of Christian Art, Annex Convent of Santa Monica, Old Goa, Goa 403402:Art & Culture
+81:Museum of Goa MOG Foundation:BRZ-BK4-00011-2015:Saligao (GOA):PLOT NO 79, PILERNE INDUSTRIAL ESTATE, Sangolda, Saligao S.O, NORTH GOA, Goa, INDIA403511:Art & Culture
+82:NAMYOG DIVINE CHARITABLE AND RELIGIOUS FOUNDATION NGO:PNJ-4-1-2022:NORTH GOA (GOA):CS1, C BUILDING 2ND FLOOR ZARINA TOWERS MAGNUM PLAZA II, NEAR APTESHWAR TEMPLE ST INEZ PANAJI GOA 403001:Animal Husbandry, Dairying & Fisheries,Art & Culture,Children,Education & Literacy,Aged/Elderly,Health & Family Welfare,Housing,Micro Finance (SHGs),Micro Small & Medium Enterprises,Right to Information & Advocacy,Skill Development
+83:National Association for the Blind, Goa State Branch:12/GOA/CHNA/83:Santa Cruz (GOA):Segundo Bairo, Santa Cruz, Tiswadi, Goa 403005:Children
+84:National Institute of Humanitarian & Charitable cause:3/5-2005:QUEPEM (GOA):198 OPP GODS GIFT GENERAL STORE NIRMALA NAGAR XELDEM QUEPEM GOA 403705:Data Not Found
+85:Navajyothi Rehabilitation Centre:35/GOA/91:Margao (GOA):Navajyothi Rehabilitation CenterSisters Adorers, Belloy, Nuvem, Salcete Goa-403604:Children,Vocational Training,Women's Development & Empowerment
+86:Naveenjeevan Foundation:PNJ-4-12-2020:Tiswadi (GOA):287,Morobi-O-Grand,Datteshwar Colony Tiswadi,North Goa,Goa, India 403006:Environment & Forests,Health & Family Welfare,Education & Literacy,Rural Development & Poverty Alleviation
+87:ngo association:F GOA:SUREND (GOA):xyz abc:Agriculture
+88:Nirmala Education Society:78/233:Panaji (GOA):Nirmala Education Society, Nirmala Nivas, ,Altinho, Panaji, Goa 403001:Education & Literacy,Children
+89:NITYA SEVA SOCIETY RIVONA:108/GOA/2008:RIVONA (GOA):NITYA SEVA NIKETAN P O RIVONA GOA 403705:Children,HIV/AIDS
+90:NIZ GOENKAR FAUZ:353/Goa/2016:Mormugao (GOA):NIZ GOENKAR FAUZ, OFFICE NO 9/222, PATRONG BAINA, VascoDa-Gama S.O, Mormugao, SOUTH GOA, Goa - 403802:Data Not Found
+91:Noah's Animal Care Shelter:BRZ-BK4-00010-2015:Calangute (GOA):H.No 4/99B Porba Vaddo, Calangute:Animal Husbandry, Dairying & Fisheries
+92:Novi Survat Goa:334/GOA/2019:North Goa (GOA):E 5, Landscape City, Chogm Road, Porvorim, Goa- 403521:Data Not Found
+93:omkar arts and crafts:104GOA1997:PONDA (GOA):OMKAR ARTS:Art & Culture,Micro Finance (SHGs),Rural Development & Poverty Alleviation,Tribal Affairs,Tourism,Vocational Training,Women's Development & Empowerment,Youth Affairs
+94:ONE GOD FOUNDATION:PNJ-BK4-00051-2015:Tiswaadi (GOA):283 EVA FRANCE VILLA GREEN VALLEY CORLIM TISWADI GOA 403110:Data Not Found
+95:ONEEARTH WELFARE FOUNDATION:U85300GA2023NPL015733:Panaji (GOA):Ground Floor, Wewo building, Dempo towers, Patto, Panaji:Children,Environment & Forests,Water Resources
+96:OORJA TRAINING AND RESEARCH ACADEMY:MGO-BK4-00067-2015:Margao (GOA):Oorja Wellness centreH. No. 63, Abade Faria Road Near Civil:Art & Culture,Education & Literacy,Health & Family Welfare,Urban Development & Poverty Alleviation,Women's Development & Empowerment,Skill Development
+97:OUTREACH:BRZ-4-10-2023:MAPUSA (GOA):H.No. 45/Ill, NearBandekar Near Petrol Pump, Karaswada, Mapusa, Bardez, Goa 403507:Children,Education & Literacy,Health & Family Welfare
+98:P P PADMANABH SHISHYA SAMPRADAY VISWASTA MANDAL:8/16:PONDA (GOA):SHREE KSHETRA TAPOBHOOMI, KUNDAIM, PONDA GOA 403115:Agriculture,Art & Culture,Children,Education & Literacy,Environment & Forests,Rural Development & Poverty Alleviation,Women's Development & Empowerment,Youth Affairs
+99:P P SHREE PADMANABHA SHISHYA SAMPRADAY TRUST:4/1:PONDA (GOA):TAPOBHOOMI , KUNDAIM GOA:Education & Literacy,Environment & Forests,Women's Development & Empowerment,Youth Affairs
+100:PANAJI ANIMAL WELFARE SOCIETY (PAWS):155/GOA/2003:Panaji (GOA):CORPORATION OF THE CITY, OF PANJIM ANIMAL SHELTER, ST INEZ, PANAJI, , GOA, 403001:Data Not Found
+1:PANJIM BOXING & SPORTS CLUB:345/Goa/2011:PANAJI (GOA):9/117, Shree Sharvani Prasaad, Boca-De-Voca, Panaji, Tiswadi, Goa. 403001:Data Not Found
+2:PANJIM GYMKHANA:RS/52/70 SERIAL NO 284:PANAJI (GOA):BANDODKAR GROUNDS, D B MARG CAMPAL, PANAJI-GOA. 403001:Sports
+3:PANJIM SALESIAN SOCOETI:76/Goa/86:PANAJI (GOA):DON BOSCO, M G ROAD, PANAJI-GOA.:Education & Literacy
+4:PARIXIT PAI FONDEKAR CHARITABLE TRUST:MGO-BK4-00015-2016:Margao (GOA):SAMBARI BARETTO ROAD,RANGAVI BUILDING, OPP. TO MUNCIPAL MARGAO GOA 403601:Data Not Found
+5:PASTORAL INSTITUTE ST.PIUS X:1560/2021:OLD GOA (GOA):PASTORAL INSTITUTE ST PIUS X OLD GOA GOA 403402:Any Other
+6:Peaceful Society:29/Goa/84:Ponda (GOA):Peaceful Society At- Honsowado Post- Kundai 403 115 South Goa Goa:Animal Husbandry, Dairying & Fisheries,Agriculture,Civic Issues,Education & Literacy,Environment & Forests,Health & Family Welfare,Human Rights,Legal Awareness & Aid,Panchayati Raj,Rural Development & Poverty Alleviation,Water Resources,Women's Development & Empowerment,Youth Affairs
+7:PEOPLE FOR ANIMALS - GOA:46/Goa/99:MAPUSA (GOA):G/8, ST BRITTOS APARTMENTS, FEIRA ALTA, MAPUSA GOA 403507:Data Not Found
+8:PHOENIX WOMENS WING SELF HELP GROUP VALPOI:90/GOA/2016:SATTARI (GOA):H.NO 198, NEAR UNITY HIGH SCHOOL,VALPOI SATTARI GOA. 403506:Children,Education & Literacy,Health & Family Welfare
+9:PILAR SEMINARY SOCIETY:423:PILAR (GOA):Fr. Agnel Niketan Boys Home, Pilar, Tiswadi, Goa:Children,Education & Literacy,Sports,Vocational Training,Youth Affairs
+10:PILAR SISTERS ASSOCIATION:2/GOA/89:LOUTOLIM (GOA):HOUSE NO-611 ORGAO LOUTULIM SALCETE GOA 403718:Education & Literacy
+11:PONDA EDUCATION SOCIETY:34/Goa/84:Ponda (GOA):Farmagudi, Ponda-Goa 403401:Data Not Found
+12:POPULAR HIGH SCHOOL TRUST:1114/04:MARGAO (GOA):BEHIND CITY POLICE STATION COMBA MARGAO- GOA 403601:Education & Literacy
+13:PORVORIM LIONS MOBILE HOSPITAL TRUST:116/Goa/1991:Porvorim (GOA):NEAR KRANTI UDYAN GARDEN, KRANTI NAGAR, ALTO PORVORIM, BARDEZ, GOA:Health & Family Welfare
+14:Prabodhan Education Society:53/Goa/87:Panaji (GOA):1, Vidya Nagar,Alto -Porvorim , Porvorim,Panaji-Goa:Education & Literacy
+15:Prateek Menezes Memorial Foundation:01:PANAJI (GOA):3RD FLOOR DTC BLDG EDC COMPLEX PATTO PLAZA:Children,Health & Family Welfare
+16:PRERNA CHARITABLE TRUST:13:PANAJI GOA (GOA):C/o. Shri.Subhash B. Velingkar, 63, Muktaee, Dr.Dada Vaidya Road, Nr.Mahalakshmi Temple, Opp.Dr.Kaisare Clinic, Panaji Goa:Data Not Found
+17:Presentation Society:55/Goa/2001:Vasco (GOA):Presentation Soceity, Presentation Convent,Mangor Hill VAsco da Gama goa.403802:Data Not Found
+18:Punarjeevan Ayurvedic Association:422/GOA/2021:Calangute (GOA):H.No. 5/90, Umtawado, Calangute, Bardez, North Goa- 403516:Health & Family Welfare
+19:QED INDIA:SOR/BLU/DR/1489/10-11:PANAJI (GOA):Qed India Room No 204 2nd Floor Mundail Guest House LA-Campala Miramar Road Panaji Goa:Micro Small & Medium Enterprises,New & Renewable Energy,Panchayati Raj,Rural Development & Poverty Alleviation,Scientific & Industrial Research,Minority Issues,Tribal Affairs
+20:RACHOL SEMINARY:271830062:Margao (GOA):P.O.Sem. Rachol Salcete Goa 403601:Data Not Found
+21:RAMANATA CRISNA PAI RAIKAR EDUCATION SOCIETY:9/Goa/2013:PANAJI (GOA):307,RAYU CHAMBER,DR.A.B.ROAD,PANAJI-GOA.403001:Agriculture,Education & Literacy,Environment & Forests,Rural Development & Poverty Alleviation,Vocational Training
+22:RAMESHCHANDRA KUSUMRANI CHARITABLE TRUST:10:Margao (GOA):Littles Primary School Near Chowgules Maruti Service Centre Fatorda:Education & Literacy
+23:Ravanfond Lions Education Societys:120/Goa/94:MARGAO (GOA):Shantinagar, Ravanfond, Navelim, Salcete, Goa:Data Not Found
+24:RAVIYOG FOUNDATION:U85300GA2022NPL015132:GOA (GOA):F NO 211, 2ND FLOOR, MURGAO AVENUE, VASCO-DA-GAMA, VASCO, South Goa, Goa, India:Health & Family Welfare,Women's Development & Empowerment,Skill Development
+25:READY STEADY EDUMEDIA FOUNDATION:U85499GA2024NPL016374:Goa (GOA):H No 93/1 FF1, Marra Pilerne, BardezSaligao, Goa 403511:Data Not Found
+26:Rebuild India Trust:PNJ-BK4-00013-2017:Agassaim (GOA):House No. 830/1:Women's Development & Empowerment,Agriculture,Animal Husbandry, Dairying & Fisheries,Art & Culture,Children,Dalit Upliftment,Education & Literacy,Environment & Forests,Health & Family Welfare,Information & Communication Technology,Rural Development & Poverty Alleviation,Science & Technology,Sports,Tourism
+27:REKHAS SEVA FOUNDATION:U85300GA2020NPL014522:MARGAO (GOA):3 flr No. 6, Reliance Atria, Isidoria, Baptists road, Margao Salcete, South Goa, goa, South Goa, Goa, India, 403601:Children,Differently Abled,Drinking Water,Education & Literacy,Food Processing,Health & Family Welfare,Nutrition,Scientific & Industrial Research,Sports,Women's Development & Empowerment,Any Other,Skill Development
+28:ROSA MYSTICA SOCIETY:RS/77/74:ALDONA (GOA):ROSA MYSTICA SOCIETY, ALDONA:Any Other
+29:Saare Tare Zameen Par Trust:MGO-4-3-2019:Goa (GOA):H N 35, Abade Faria Road, Comba, Margao, Saclete Goa:Education & Literacy,Science & Technology,Vocational Training,Skill Development
+30:SABAK:108/GOA/1993:South Goa (GOA):870, Chandrawado, Fatorda:Education & Literacy
+31:SABRCARE TRUST:PNJ-BK4-00024-2018:Panaji (GOA):3rd Floor, Tamba Building, Atmaram Borkar Road:Children,Differently Abled,Health & Family Welfare,Nutrition,Any Other
+32:SADGURU BRAHMESHANAND ADHISHTHAN:BRZ-4-11-2023:THIVIM (GOA):BELLA VISTA WADDO, NEAR THIVIM RAILWAY STATION SIRSAIM BARDEZ GOA -403502:Agriculture,Art & Culture,Education & Literacy,Environment & Forests,Urban Development & Poverty Alleviation,Women's Development & Empowerment,Youth Affairs,Skill Development
+33:SADGURU DNYANPEETH:214/GOA/2016:North Goa (GOA):SADGURU DNYANPEETH SHREE KSHETRA TAPOBHOOMI KUNDAIM PONDAGOA -403115:Art & Culture,Children,Education & Literacy
+34:SADGURU YOG GURUKUL:339:Ponda (GOA):Tapobhoomi, kundaim Ponda Goa:Art & Culture,Children,Health & Family Welfare,Youth Affairs,Environment & Forests
+35:SADGURU YOUTH FEDERATION:213/GOA/2016:Kundaim (GOA):Shree Kshetra Tapobhoomi Kundaim Ponda Goa403115:Data Not Found
+36:SAHARA MUSLIM WELFARE EDUCATION SOCIETY:293/Goa/2012:Margao (GOA):L 265, Gogol Housing Board,Margao Goa:Education & Literacy
+37:Sai Life Care:79/Goa/96:Sankhali (GOA):Address- Sai Life Care, old PHC building, Sankhali Goa 403505:HIV/AIDS,Children,Differently Abled,Aged/Elderly,Health & Family Welfare,Tribal Affairs,Vocational Training,Women's Development & Empowerment,Youth Affairs
+38:SAI NURSING INSTITUTE:16/GOA/2015:Sankhali Goa (GOA):Sai Nursing Institute , Old PHC Building , Sankhali Goa 403505:Vocational Training
+39:SAINT ANN'S CONVENT:437:Tivim (GOA):Tivim, Bardez, Goa:Education & Literacy
+40:SAKSHI'S JOY FOUNDATION:U86100GA2023NPL016154:CARANZALEM (GOA):322, GERA’S ASTORIA, CARANZALEM. PINCODE -403002:Agriculture,Art & Culture,Children,Dalit Upliftment,Differently Abled,Drinking Water,Education & Literacy,Food Processing,Health & Family Welfare,Human Rights,Rural Development & Poverty Alleviation,Sports,Tourism,Vocational Training,Women's Development & Empowerment,Any Other,Skill Development
+41:SALVADOR FOUNDATION:U85300GA2022NPL015138:PANAJI (GOA):1/36 (C-36) LUIS DE MENEZES ROAD-PANAJI:Health & Family Welfare,Nutrition,Youth Affairs,Any Other,Skill Development
+42:SANGATH:138/Goa/96:Porvorim Bardez (GOA):House No. 451 (168), Bhatkar Vaddo, Socorro,Porvorim Bardez Goa 403501, Porvorim Bardez, Goa, North Goa/South Goa, 403501:Any Other
+43:SANJAY CENTRE FOR SPECIAL EDUCATION GOA:632/Goa/2010:Porvorim (GOA):Pundalik Nagar Porvorim Bardez Goa:Differently Abled
+44:SANKALP SIDDHI:PNM-4-5-2023:Pernem (GOA):H no 45,Bhaidwada, Korgao, Pernem, Goa:Data Not Found
+45:SANT ANTONI ANANTHAMAYA CHARITABLE TRUST:MOR-4-4-2023:Zuari nAgar (GOA):121/2-A Dr Isidoro Carvalho Residency Zuari Nagar Sancole Goa:Data Not Found
+46:SARASWAT EDUCATION SOCIETY:7/1964:Mapusa (GOA):Telang Nagar, Khorlim, Mapusa:Education & Literacy
+47:SARVODAYA EDUCATIONAL SOCIETY:2/Goa/2005:Curchorem (GOA):CO Sarvodaya Educational Societys High School, Post Box No. 21, Curchorem Goa 403706:Data Not Found
+48:SATERI PISANI EDUCATION SOCIETY:662/GOA/2012:PONDA (GOA):B G ASSOCIATES, OFF. NO. FS1, 1ST FLOOR, ANTANASIA BLDG.,PONDA - GOA:Education & Literacy
+49:SATGURU FOUNDATION:1083/GOA/2011:PONDA (GOA):TAPOBHOOMI, OPPOSITE KUNDAIM INDUSTRIAL ESTATE, KUNDAIM, PONDA GOA:Agriculture,Art & Culture,Children,Education & Literacy,Environment & Forests,Food Processing,Health & Family Welfare,Micro Small & Medium Enterprises
+50:SATYAJIT KERKAR MUSEUM FOUNDATION:U90009GA2024NPL016417:Saligao (GOA):1/59B, Grand Marod,Saligao, Bardez,North Goa 403511:Art & Culture,Environment & Forests
+51:Seminary of Our Lady:1733/2018:PILERNE (GOA):P.O. SALIGAO BARDEZ, GOA:Education & Literacy,Vocational Training,Any Other
+52:SENSISTAN TECHNOLOGY ART EXPERIENCE FOUNDATION:U92419GA2019NPL013928:Panjim (GOA):c/o 99 SpringBoard 201 301,Shanta Building, Caculo Circle BEHIND SBI ZONAL OFFICE:Art & Culture
+53:SERIALS BLUEROAD SPORTS AND EVENTS ASSOCIATION:U93190GA2023NPL016174:PONDA (GOA):FLAT NO 607, TARANGAN, NEAR CIVIL COURT, TISK PONDA, PONDA, SOUTH GOA:Sports,Youth Affairs
+54:SETHU:16/2005:Porvorim (GOA):H NO 35, DEFENCE COLONY, ALTO PORVORIM, BARDEZ GOA:Children,Education & Literacy,Health & Family Welfare
+55:SEVARATFOUNDATION:PNJ-4-12-2022:PANAJI (GOA):FF1, Panjim Convention Centre, Mala, Panaji:Aged/Elderly
+56:LSHALOMLIFE MINISTRIES TRUST:4 of 2008:Goa (GOA):No.A/T-15, 3rd Floor, Campal Trade Center, Opp.to Kala Academy, Behind Military Hospital, St. Lnez, Panjim:Data Not Found
+57:Shankhavali Teerthkshetra Gaushala Trust:MOR-BK4-00015-2018:Cortalim (GOA):H No 138, Rua De Maria, Sancoale, Cortalim, Goa:Agriculture,Animal Husbandry, Dairying & Fisheries
+58:shantadurga cultural association:9/78:marcel (GOA):C/O Mahendra Gaonkar H.no. 480, North Goa, Taluka Tiswadi, kumbharjua, PO. marcelGoa 403 107:Art & Culture
+59:SHANTI NIWAS SOCIAL SERVICE:84/GOA/99:CARONA (GOA):SHANTINIWAS SOCIAL WELFARE SOCIETY51/8 OLAULIM P.O CARONA BARDEZ GOA 403523:Women's Development & Empowerment
+60:SHANTINIKETAN EDUCATION SOCIETY:188/GOA/92:CUNCOLIM (GOA):BALLI QUEPEM VIA CUNCOLIMGOA 403703:Education & Literacy
+61:SHIKSHAN PRASARAK SANGH TALAULIM:80/GOA/65:PONDA (GOA):TALAULI PONDA-GOA:Data Not Found
+62:SHISHU BHAVAN:120/GOA/2014:Arpora (GOA):88 Mainath Batti, Anjuna Road, Arpora, Bardez, GOA:Children,Education & Literacy
+63:SHREE BALRAM EDUCATION SOCIETY:115/GOA/2007:MARGAO (GOA):AMONEM, POINGUINIM, CANACONAGOA.:Education & Literacy,Art & Culture,Sports,Tribal Affairs,Women's Development & Empowerment
+64:SHREE DATTA PADMANABH PEETH:862:PONDA (GOA):SHREE KSHETRA TAPOBHOOMI, KUNDAIM, PONDA GOA:Agriculture,Art & Culture,Children,Education & Literacy,Environment & Forests,Health & Family Welfare,Labour & Employment
+65:SHREE DATTA PADMANABH PEETH:PON-BK4-00009-2018:PONDA (GOA):SHREE KSHETRA TAPOBHOOMI, KUNDAIM PONDA GOA:Agriculture,Education & Literacy,Environment & Forests,Health & Family Welfare,Women's Development & Empowerment,Youth Affairs
+66:SHREE GAJANAN SEVA SAMITI:51/Goa/2022:Zuari Nagar (GOA):558/1 Nr Old Petrol pump Zuari Nagar Sancole Goa:Data Not Found
+67:SHREE JAGANNATH SWAMI FOUNDATION:PNJ-4-10-2020:Panaji (GOA):739, Gera Star, Near Central Library, Patto Plaza, Panaji, Goa:Art & Culture,Agriculture,Drinking Water,Education & Literacy,Environment & Forests,Micro Small & Medium Enterprises,Tribal Affairs,Skill Development
+68:Shree Katyayani Baneshwar Vidyalaya:DE/ACAD I/SEZ/CAN/2/78/2725:Canacona (GOA):Kindlem-Pansulem Canacona Goa:Education & Literacy
+69:SHREE NAGUESH MAHARUDRA BHAJANI MANDAL:219/Goa/2009:Panjim (GOA):Gujrabhat, Curca , Tiswadi Goa403108:Art & Culture
+70:SHREE NIRAKAR EDUCATION SOCIETY:152GOA2010:CANACONA (GOA):SHRI NIRAKAR VIDYALAYA,MASHEM,P.OLOLIEM,CANACONA,GOA:Education & Literacy
+71:SHREE PANCHMUKHI HANUMAN MANDIR TRUST:PON-4-2-2021:NORTH GOA (GOA):113 DHUMRE VELUP, NEAR SHANKAR PARVATI TEMPLE QUEULA:Agriculture,Children,Differently Abled,Disaster Management,Drinking Water,Education & Literacy,Environment & Forests,Health & Family Welfare
+72:SHREE SHANTADURGA SHIKSHAN SAMITI:144(No.RS/SK/66):PONDA (GOA):KAVALE PONDA GOA.:Education & Literacy
+73:SHREE SHARADA ENGLISH HIGH SCHOOL:328/Goa/2012:Sanvordem (GOA):Shree Sharada English High School Anandwadi Sanvordem Goa:Data Not Found
+74:Shree Subrahmanya Vangmayee Parishad:1:canacona (GOA):H.No872/A Velwada,Poinguinim:Any Other,Art & Culture
+75:Shri Damodar Vidyaprasarak Sanstha:104/Goa/2001:Canacona (GOA):Loliem Canacona Goa 403728:Children,Education & Literacy
+76:SHRI GANANATH DNYANAPRABODHINI:07/GOA/1978:Ponda (GOA):Nirankal Ponda Goa:Data Not Found
+77:SHRI KAMALESHWAR SHIKHANA PRASARAK SAMATHA,KORGAO:DOA/RS/64/13 138:GOA (GOA):DEULWADA KARGOA.PEDNE.GOA:Education & Literacy,Science & Technology,Vocational Training,Any Other,Skill Development
+78:SHRI KAMALESHWAR SHIKSHANA PRASARAK SANSTHA:27/1964:GOA (GOA):Deulwada corgao pernem goa, North Goa:Data Not Found
+79:SHRI SAIBABA MANDIR TRUST:293:DHARGAL (GOA):DADACHIWADI VILLAGE, DHARGAL, PEDNEM:Data Not Found
+80:SHRI SAUNSTHAN NAGESH MAHARUDRA:71:PONDA (GOA):NAGESHI, BANDORA:Any Other
+81:SHRI SHARDA BAL MANDIR:23/Goa/2002:Cuncolim (GOA):Voddy Cuncolim Salcete Goa:Education & Literacy
+82:Shripad Shreevallabh Cop. Housing Society Ltd.:HSG.(A)/209/Goa:Curtorim (GOA):Shripad Shreevallabh Coop. Housing Society Ltd., Pratikuravpur, Camarxete, Curtorim, Salcete, Goa 403709:Housing
+83:SMILE AGAIN FOUNDATION:SGM-4-402022:SANGUEM (GOA):H.NO. 35, OPP. PRIMARY HEALTH CENTREB BAMONSAI, SANGUEM , SOUTH GOA, GOA 403704:Data Not Found
+84:society for industrial and technical education of goa:16/78:Vasco Da Gama (GOA):ISBT Complex, Bogda, Vasco Da Gama, Goa:Data Not Found
+85:Society for Promoting Participative Ecosystem Management:111/Goa/91:Margao (GOA):16, Kale Park, Someshwarwadi Road, Pashan Pune 411008:Drinking Water,Water Resources,Women's Development & Empowerment
+86:SOCIETY FOR VECTOR ECOLOGY:250/GOA/2017:Panaji (GOA):ICMR National Institute of Malaria Research, Field StationDHS Building Campal:Biotechnology,Health & Family Welfare,Scientific & Industrial Research
+87:SOCIETY FOR YOUTH DEVELOPMENT:9-125-133/4-Add.Vol.8:Ponda (GOA):sanjeevan Building, Near Bandora Panchayat, Nagueshi, Ponda-Goa:Education & Literacy
+88:SOCIETY OF DAUGHTERS OF HEART OF MARY:CSR/308/78-308:PANAJI (GOA):NIRMALA NIVAS ALTINHO PANAJI NORTH GOA/SOUTH GOA 403001:Education & Literacy
+89:Society of Daughters of St Paul:RS/234 A/74:PANJIM (GOA):HOUSE NO 5/153, RUA DOS CRUSADO , FONTAINHAS, PANJIM, GOA -403001:Any Other
+90:Society Of Franciscan Sisters OF Mary:DCA/RS/64/8685:Panajim (GOA):Our Lady Of Rosary conventNIO Post Dona PaulaGoa403004:Education & Literacy,Education & Literacy
+91:SOCIETY OF FRANCISCAN BROTHERS OF DULER:85/Goa/99:Mapusa (GOA):Next to Duler Petrol Pump, P.O. Tivim Industrial Estate, Duler, Mapusa, Goa, India 403526:Education & Literacy
+92:SOCIETY OF FRANCISCAN SISTERS OF CHRIST KING INDIA:04/Goa/2003:Saligao (GOA):Lourdes Convent Saligao, Bardez, Goa 403511:Children,Differently Abled,Education & Literacy,Aged/Elderly,Health & Family Welfare,HIV/AIDS,Women's Development & Empowerment
+93:SOCIETY OF FRANCISCAN SISTERS OF IMMACULATE CONCEPTION:254/Goa/98:Curtorim (GOA):House No. 918/B, Grande Rumbordem, Curtorim, Salcette:Women's Development & Empowerment
+94:Society of Holy Cross Sisters Remanso Maternity and Nursing Home:121:Mapusa (GOA):Holy Cross Hospital Remanso Mapusa Goa:Children,Health & Family Welfare
+95:SOCIETY OF JESUS MARY & JOSEPH:37A/Goa/96:Panaji (GOA):Alto Porvorim, porvorim, Bardez, Alto-porvorim S.O, Bardez, NORTH GOA, 403521, Goa, INDIA:Data Not Found
+96:society of pilar:150/Goa/66:Pilar (GOA):PILAR DEEPTI SADAN INSTITUTIONAL ZONE P.O.ALTO PORVORIM DIST:NORTH GOAPIN. 403521:Education & Literacy
+97:SOCIETY OF PILAR:49/Goa/94:MARGAO (GOA):H.N. 12/3664, PADRE AGNEL BHAVAN, ST JOAQUIM ROAD, BORDA.:Education & Literacy
+98:SOCIETY OF POOR SISTERS OF OURLADY OF ASSONORA:RS/46/73:MAPUSA (GOA):INFANT JESUS OF PRAGUE CONVENT ASSONORA BARDEZ GOA:Any Other
+99:SOCIETY OF SISTERS OF ST ALEX CONVENT:47/GOA/98:BARDEZ (GOA):ST ALEX CONVENT, COBRAVADDO, CALANGUTE:Aged/Elderly,Children
+100:SOCIETY OF THE FRANSISCAN (HOSPITALLER) SISTERS OF IMMACULATE CONCEPTION:370/72-73:PANAJI (GOA):The Society of the Franciscan (Hospitaller) Sisters of the Immaculate Conception Lar de Santa Clara, 46, Abade Faria Road, Margao, Goa403601:Data Not Found

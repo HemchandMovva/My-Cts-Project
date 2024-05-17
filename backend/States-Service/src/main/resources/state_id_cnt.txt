@@ -1,0 +1,36 @@
+Andaman and Nicobar Islands:AN:189
+Andhra Pradesh:AP:200
+Arunachal Pradesh:AR:200
+Assam:AS:200
+Bihar:BR:200
+Chandigarh:CH:200
+Chhattisgarh:CG:200
+Delhi:DL:200
+Dadra and Nagar Haveli and Daman and Diu:DH:68
+Goa:GA:300
+Gujarat:GJ:200
+Haryana:HR:200
+Himachal Pradesh:HP:200
+Jammu and Kashmir:JK:200
+Jharkhand:JH:100
+Karnataka:KA:100
+Kerala:KL:100
+Ladakh:LA:100
+Lakshadweep:LD:9
+Madhya Pradesh:MP:100
+Maharashtra:MH:100
+Manipur:MN:100
+Meghalaya:ML:100
+Mizoram:MZ:100
+Nagaland:NL:100
+Odisha:OD:100
+Puducherry:PY:100
+Punjab:PB:100
+Rajasthan:RJ:100
+Sikkim:SK:100
+Tamil Nadu:TN:100
+Telangana:TG:100
+Tripura:TR:100
+Uttar Pradesh:UP:100
+Uttarakhand:UK:100
+West Bengal:WB:100
